@@ -1,0 +1,213 @@
+# Copa de 1986 — México (a Copa de Maradona)
+
+@ARG
+Diego Maradona = 99 L | MEI CA
+Jorge Valdano = 88 | CA
+Jorge Burruchaga = 87 | MEI MC
+Oscar Ruggeri = 87 | ZAG
+Daniel Passarella = 86 | ZAG
+Sergio Batista = 84 | VOL
+José Luis Brown = 84 | ZAG
+Ricardo Giusti = 83 | MD VOL
+Nery Pumpido = 83 | GOL
+Héctor Enrique = 82 | MC
+Julio Olarticoechea = 82 | LE ME
+José Luis Cuciuffo = 81 | ZAG LD
+Oscar Garré = 80 | LE
+Claudio Borghi = 80 | MEI
+Pedro Pasculli = 79 | CA
+
+@FRG
+Lothar Matthäus = 89 | MC
+Harald Schumacher = 88 | GOL
+Karl-Heinz Rummenigge = 87 | CA
+Rudi Völler = 87 | CA
+Andreas Brehme = 85 | LE LD
+Felix Magath = 85 | MEI
+Karlheinz Förster = 85 | ZAG
+Hans-Peter Briegel = 84 | LE VOL
+Pierre Littbarski = 84 | PE PD
+Klaus Allofs = 84 | CA
+Thomas Berthold = 82 | LD
+Klaus Augenthaler = 82 | ZAG
+Norbert Eder = 80 | ZAG
+Ditmar Jakobs = 80 | ZAG
+
+@FRA
+Michel Platini = 92 L | MEI
+Jean Tigana = 89 | MC
+Alain Giresse = 87 | MC
+Luis Fernandez = 86 | VOL
+Manuel Amoros = 86 | LD LE
+Maxime Bossis = 85 | ZAG
+Joël Bats = 85 | GOL
+Patrick Battiston = 83 | ZAG
+Jean-Pierre Papin = 83 | CA
+Dominique Rocheteau = 83 | CA PD
+Yannick Stopyra = 82 | CA
+Yvon Le Roux = 80 | ZAG
+
+@BEL
+Jan Ceulemans = 88 | MEI CA
+Jean-Marie Pfaff = 87 | GOL
+Enzo Scifo = 85 | MEI
+Eric Gerets = 85 | LD
+Nico Claesen = 83 | CA
+Franky Vercauteren = 83 | ME PE
+Georges Grün = 81 | ZAG
+René Vandereycken = 81 | MC
+Stéphane Demol = 80 | ZAG
+Franky Van der Elst = 80 | VOL
+
+@BRA +1
+Careca = 90 | CA
+Sócrates = 89 L | MEI
+Zico = 88 | MEI
+Júnior = 87 | MC LE
+Josimar = 84 | LD
+Branco = 84 | LE
+Júlio César = 84 | ZAG
+Edinho = 83 | ZAG
+Alemão = 83 | VOL MC
+Müller = 82 | CA PD
+Carlos = 82 | GOL
+Elzo = 81 | VOL
+Casagrande = 80 | CA
+
+@MEX
+Hugo Sánchez = 89 L | CA
+Manuel Negrete = 84 | MEI
+Tomás Boy = 82 | MC MEI
+Fernando Quirarte = 81 | ZAG
+Javier Aguirre = 81 | MC
+Pablo Larios = 80 | GOL
+Carlos Muñoz = 80 | VOL
+Luis Flores = 80 | CA
+
+@ESP
+Emilio Butragueño = 89 | CA
+Andoni Zubizarreta = 86 | GOL
+Míchel = 85 | MD MC
+José Antonio Camacho = 83 | ZAG LE
+Víctor = 82 | MC
+Julio Salinas = 82 | CA
+Rafael Gordillo = 82 | LE
+Andoni Goikoetxea = 81 | ZAG
+Ramón Calderé = 80 | MC
+
+@URS
+Ihor Belanov = 89 | CA
+Rinat Dasayev = 89 L | GOL
+Oleksandr Zavarov = 85 | MEI
+Vasyl Rats = 83 | ME
+Sergei Aleinikov = 83 | VOL
+Anatoliy Demyanenko = 83 | LE
+Oleh Blokhin = 83 | PE CA
+Volodymyr Bezsonov = 82 | LD
+Oleh Kuznetsov = 82 | ZAG
+Ivan Yaremchuk = 82 | MD
+Oleh Protasov = 82 | CA
+Pavlo Yakovenko = 81 | MC
+
+@DEN +1
+Michael Laudrup = 90 L | MEI CA
+Preben Elkjær = 89 | CA
+Morten Olsen = 86 | ZAG
+Søren Lerby = 85 | MC
+Frank Arnesen = 84 | MC
+Jesper Olsen = 83 | PE
+Jan Mølby = 82 | MC
+Klaus Berggreen = 81 | MD
+Søren Busk = 80 | ZAG
+Ivan Nielsen = 80 | ZAG
+Jens Jørn Bertelsen = 80 | VOL
+John Sivebæk = 80 | LD
+
+@ENG
+Gary Lineker = 90 L | CA
+Peter Shilton = 87 | GOL
+Bryan Robson = 86 | MC
+Glenn Hoddle = 85 | MEI
+Terry Butcher = 84 | ZAG
+Peter Beardsley = 84 | CA MEI
+Kenny Sansom = 83 | LE
+Chris Waddle = 82 | PE
+Ray Wilkins = 82 | MC
+Trevor Steven = 81 | MD
+Gary M. Stevens = 80 | LD
+Mark Hateley = 80 | CA
+
+@ITA
+Gaetano Scirea = 87 | ZAG
+Alessandro Altobelli = 86 | CA
+Giuseppe Bergomi = 85 | LD ZAG
+Pietro Vierchowod = 85 | ZAG
+Bruno Conti = 84 | PD
+Antonio Cabrini = 84 | LE
+Fernando De Napoli = 82 | MC
+Salvatore Bagni = 82 | MC
+Giovanni Galli = 80 | GOL
+
+@PAR
+Romerito = 85 | MEI
+Roberto Fernández = 81 | GOL
+Roberto Cabañas = 81 | CA
+
+@URU
+Enzo Francescoli = 87 | MEI
+Antonio Alzamendi = 80 | CA
+
+@MAR +1
+Mohamed Timoumi = 84 | MEI
+Ezzaki Badou = 84 | GOL
+Aziz Bouderbala = 82 | PD MEI
+Abdelmajid Dolmy = 81 | VOL
+Abdelkrim Merry "Krimau" = 79 | CA
+
+@POL
+Zbigniew Boniek = 86 | MEI CA
+Dariusz Dziekanowski = 81 | CA
+Włodzimierz Smolarek = 81 | PD
+Józef Młynarczyk = 81 | GOL
+Roman Wójcicki = 80 | ZAG
+
+@KOR
+Cha Bum-kun = 86 | CA
+Huh Jung-moo = 79 | MC
+
+@POR
+Fernando Gomes = 84 | CA
+Paulo Futre = 83 | PE
+Manuel Bento = 81 | GOL
+Carlos Manuel = 80 | MEI
+
+@SCO
+Graeme Souness = 83 | MC
+Gordon Strachan = 83 | MD
+Richard Gough = 81 | ZAG
+Alex McLeish = 81 | ZAG
+Willie Miller = 81 | ZAG
+Jim Leighton = 80 | GOL
+Paul McStay = 80 | MC
+
+@ALG
+Rabah Madjer = 84 | CA
+Lakhdar Belloumi = 82 | MEI
+Mohamed Kaci-Saïd = 79 | MC
+
+@NIR
+Pat Jennings = 84 | GOL
+Norman Whiteside = 80 | CA MC
+
+@BUL -1
+Borislav Mihaylov = 81 | GOL
+Nasko Sirakov = 81 | CA
+
+@IRQ
+Ahmed Radhi = 80 | CA
+Hussein Saeed = 79 | CA
+
+@HUN -2
+Lajos Détári = 83 | MEI
+
+@CAN -2

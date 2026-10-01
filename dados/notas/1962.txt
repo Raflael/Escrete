@@ -1,0 +1,145 @@
+# Copa de 1962 — Chile (a Copa do Garrincha)
+
+@BRA
+Garrincha = 97 L | PD
+Pelé = 93 L | MEI CA
+Didi = 90 L | VOL MEI
+Djalma Santos = 90 L | LD
+Nílton Santos = 89 L | LE
+Gilmar = 89 L | GOL
+Vavá = 89 | CA
+Zito = 88 | VOL MC
+Amarildo = 86 | CA PE
+Mário Zagallo = 86 | PE ME
+Mauro Ramos = 86 | ZAG
+Zózimo = 85 | ZAG
+Hilderaldo Bellini = 82 | ZAG
+Pepe = 81 | PE
+
+@TCH
+Josef Masopust = 92 L | MC VOL
+Viliam Schrojf = 88 | GOL
+Ján Popluhár = 86 | ZAG
+Ladislav Novák = 85 | LE
+Adolf Scherer = 85 | CA MEI
+Svatopluk Pluskal = 84 | VOL
+Andrej Kvašňák = 84 | MEI
+Jan Lála = 81 | LD
+Josef Kadraba = 80 | CA
+Tomáš Pospíchal = 80 | PD
+
+@YUG
+Dragoslav Šekularac = 88 | MEI
+Milan Galić = 87 | MEI CA
+Dražan Jerković = 86 | CA
+Fahrudin Jusufi = 85 | LE LD
+Milutin Šoškić = 84 | GOL
+Vladimir Durković = 83 | LD
+Josip Skoblar = 83 | PE CA
+Vladica Popović = 81 | VOL
+Petar Radaković = 81 | VOL MC
+Vlatko Marković = 81 | ZAG
+
+@CHI
+Leonel Sánchez = 88 | PE
+Eladio Rojas = 84 | VOL
+Jorge Toro = 84 | MEI
+Luis Eyzaguirre = 83 | LD
+Jaime Ramírez = 83 | PD
+Raúl Sánchez = 81 | ZAG
+Honorino Landa = 80 | CA
+Alberto Fouilloux = 80 | MEI
+Misael Escuti = 79 | GOL
+
+@URS
+Lev Yashin = 93 L | GOL
+Valentin Ivanov = 88 | MEI
+Igor Netto = 86 | VOL MC
+Valery Voronin = 85 | VOL
+Igor Chislenko = 84 | PD
+Viktor Ponedelnik = 84 | CA
+Mikhail Meskhi = 84 | PE
+Anatoli Maslyonkin = 81 | ZAG
+
+@FRG
+Uwe Seeler = 89 L | CA
+Karl-Heinz Schnellinger = 86 | LE ZAG
+Horst Szymaniak = 86 | VOL MC
+Helmut Haller = 85 | MEI
+Willi Schulz = 83 | ZAG
+Albert Brülls = 83 | PE
+Herbert Erhardt = 82 | ZAG
+Hans Schäfer = 80 | PD
+
+@HUN
+Flórián Albert = 88 | CA
+Lajos Tichy = 86 | CA MEI
+Kálmán Mészöly = 84 | ZAG
+János Göröcs = 82 | MC
+Gyula Grosics = 82 | GOL
+Ferenc Sipos = 81 | ZAG VOL
+Sándor Mátrai = 81 | LD ZAG
+Ernő Solymosi = 81 | VOL
+Károly Sándor = 81 | PD
+Gyula Rákosi = 80 | MEI
+
+@ENG
+Bobby Charlton = 88 | PE MEI
+Jimmy Greaves = 88 | CA
+Johnny Haynes = 86 | MEI
+Bobby Moore = 86 | VOL ZAG
+Ray Wilson = 84 | LE
+Jimmy Armfield = 84 | LD
+Ron Flowers = 82 | VOL
+Ron Springett = 81 | GOL
+Bryan Douglas = 80 | PD
+
+@ITA +2
+Omar Sívori = 90 L | MEI CA
+José Altafini = 85 | CA
+Cesare Maldini = 84 | ZAG
+Gianni Rivera = 83 | MEI
+Sandro Salvadore = 83 | ZAG
+Giacomo Bulgarelli = 83 | MC
+Lorenzo Buffon = 81 | GOL
+Giacomo Losi = 81 | LD ZAG
+
+@ESP +3
+Alfredo Di Stéfano = 94 L | CA MEI
+Ferenc Puskás = 90 L | CA MEI
+Francisco Gento = 90 L | PE
+Luis Suárez = 90 L | MEI
+José Santamaría = 85 | ZAG
+Luis del Sol = 84 | MC
+Joaquín Peiró = 82 | MEI
+Enrique Collar = 82 | PD
+
+@ARG
+Silvio Marzolini = 85 | LE
+Antonio Rattín = 83 | VOL
+Antonio Roma = 82 | GOL
+Rogelio Domínguez = 82 | GOL
+José Sanfilippo = 82 | CA
+
+@URU
+Néstor Gonçalves = 81 | VOL
+Luis Cubilla = 82 | PD
+José Sasía = 80 | CA
+Pedro Rocha = 80 | MEI
+
+@COL
+Efraín Sánchez = 78 | GOL
+Marcos Coll = 76 | VOL MC
+
+@MEX
+Antonio Carbajal = 80 | GOL
+Salvador Reyes = 78 | MEI
+Isidoro Díaz = 78 | PE
+
+@SUI
+Charles Antenen = 78 | PD
+Heinz Schneiter = 77 | ZAG
+
+@BUL -1
+Georgi Asparuhov = 80 | CA
+Ivan Kolev = 80 | MEI

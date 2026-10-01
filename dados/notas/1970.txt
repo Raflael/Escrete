@@ -1,0 +1,154 @@
+# Copa de 1970 — México
+# Formato: Nome = nota [L] [| posições]. L = lenda (selo dourado).
+# Quem não está aqui fica com a nota-base (+ o ajuste da seleção, se houver).
+
+@BRA
+Pelé = 99 L | MEI CA
+Jairzinho = 94 L | PD CA
+Carlos Alberto = 92 L | LD
+Gérson = 92 L | MC VOL
+Rivellino = 92 L | ME MEI PE
+Tostão = 91 L | CA MEI
+Clodoaldo = 87 | VOL MC
+Piazza = 84 | ZAG VOL
+Brito = 83 | ZAG
+Everaldo = 80 | LE
+Caju = 80 | PE PD MEI
+Félix = 78 | GOL
+Marco Antônio = 79 | LE
+Leão = 78 | GOL
+Zé Maria = 78 | LD
+Edu = 78 | PE
+Joel Camargo = 77 | ZAG
+Fontana = 76 | ZAG
+Roberto Miranda = 76 | CA
+Baldocchi = 74 | ZAG
+Ado = 72 | GOL
+
+@ITA
+Gigi Riva = 91 L | CA
+Gianni Rivera = 90 L | MEI
+Giacinto Facchetti = 89 L | LE
+Sandro Mazzola = 88 | MEI CA
+Tarcisio Burgnich = 85 | LD ZAG
+Roberto Boninsegna = 85 | CA
+Dino Zoff = 84 | GOL
+Enrico Albertosi = 83 | GOL
+Roberto Rosato = 83 | ZAG
+Giancarlo De Sisti = 83 | MC
+Pierluigi Cera = 82 | ZAG VOL
+Angelo Domenghini = 82 | PD
+Mario Bertini = 80 | VOL MC
+
+@FRG
+Gerd Müller = 95 L | CA
+Franz Beckenbauer = 93 L | ZAG MC VOL
+Uwe Seeler = 89 L | CA MEI
+Wolfgang Overath = 89 | MEI MC
+Sepp Maier = 88 | GOL
+Berti Vogts = 86 | LD
+Jürgen Grabowski = 85 | PD
+Karl-Heinz Schnellinger = 84 | ZAG LE
+Reinhard Libuda = 83 | PD
+Horst-Dieter Höttges = 81 | LE ZAG
+Klaus Fichtel = 80 | ZAG
+Willi Schulz = 80 | ZAG
+Hannes Löhr = 79 | PE
+
+@URU
+Ladislao Mazurkiewicz = 88 L | GOL
+Luis Cubilla = 85 | PD
+Pedro Rocha = 84 | MEI
+Atilio Ancheta = 83 | ZAG
+Julio Montero Castillo = 82 | VOL
+Roberto Matosas = 80 | ZAG
+Luis Ubiña = 80 | ZAG LD
+Ildo Maneiro = 80 | MC
+Víctor Espárrago = 80 | MC
+Juan Mujica = 79 | LE
+Julio César Cortés = 79 | VOL MC
+
+@PER
+Teófilo Cubillas = 90 L | MEI CA
+Héctor Chumpitaz = 86 | ZAG
+Hugo Sotil = 83 | PD CA
+Alberto Gallardo = 82 | PE
+Roberto Challe = 81 | MC
+Pedro Pablo León = 81 | CA
+Ramón Mifflin = 80 | VOL MC
+Luis Rubiños = 77 | GOL
+
+@ENG
+Gordon Banks = 92 L | GOL
+Bobby Moore = 92 L | ZAG
+Bobby Charlton = 89 L | MEI MC
+Geoff Hurst = 85 | CA
+Martin Peters = 85 | MC ME
+Alan Ball = 85 | MC MD
+Terry Cooper = 83 | LE
+Colin Bell = 83 | MC
+Alan Mullery = 82 | VOL
+Francis Lee = 82 | CA PD
+Brian Labone = 80 | ZAG
+Jack Charlton = 80 | ZAG
+Norman Hunter = 80 | ZAG VOL
+Allan Clarke = 80 | CA
+Keith Newton = 79 | LD LE
+Peter Osgood = 79 | CA
+Peter Bonetti = 78 | GOL
+
+@URS
+Anatoliy Byshovets = 86 | CA
+Albert Shesternyov = 85 | ZAG
+Murtaz Khurtsilava = 83 | ZAG
+Vladimir Muntyan = 83 | MC
+Anzor Kavazashvili = 81 | GOL
+Kakhi Asatiani = 80 | MC
+Revaz Dzodzuashvili = 80 | LD
+
+@MEX
+Gustavo Peña = 82 | ZAG
+Javier Fragoso = 80 | CA
+Ignacio Calderón = 80 | GOL
+Enrique Borja = 79 | CA
+Javier Valdivia = 79 | CA
+
+@BEL
+Paul Van Himst = 85 | CA MEI
+Wilfried Van Moer = 83 | MC
+Christian Piot = 80 | GOL
+Raoul Lambert = 80 | CA
+Georges Heylens = 79 | LD
+
+@SWE
+Ronnie Hellström = 83 | GOL
+Bo Larsson = 82 | MC
+Ove Kindvall = 81 | CA
+Björn Nordqvist = 80 | ZAG
+
+@TCH
+Ivo Viktor = 84 | GOL
+Jozef Adamec = 80 | CA
+Ladislav Kuna = 79 | MC
+Karol Dobiaš = 79 | LD
+Ladislav Petráš = 79 | CA
+
+@ROU
+Florea Dumitrache = 81 | CA
+Cornel Dinu = 81 | ZAG VOL
+Mircea Lucescu = 80 | PE
+Necula Răducanu = 79 | GOL
+Radu Nunweiller = 79 | MC
+
+@BUL
+Georgi Asparuhov = 83 | CA
+Hristo Bonev = 81 | MEI
+Dimitar Penev = 81 | ZAG
+
+@ISR
+Mordechai Spiegler = 80 | CA
+
+@MAR
+Ahmed Faras = 80 | CA
+
+@SLV -2

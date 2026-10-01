@@ -1,0 +1,140 @@
+# Copa de 1966 — Inglaterra (a Inglaterra em casa, Eusébio e a Coreia do Norte)
+
+@ENG
+Bobby Charlton = 94 L | MEI MC
+Bobby Moore = 94 L | ZAG
+Gordon Banks = 92 L | GOL
+Geoff Hurst = 88 | CA
+Jimmy Greaves = 88 | CA
+Alan Ball = 87 | MD MC
+Martin Peters = 86 | MC ME
+Ray Wilson = 86 | LE
+Roger Hunt = 85 | CA
+Nobby Stiles = 85 | VOL
+Jack Charlton = 85 | ZAG
+George Cohen = 84 | LD
+
+@FRG
+Franz Beckenbauer = 91 L | MC VOL
+Uwe Seeler = 90 L | CA
+Helmut Haller = 87 | MEI
+Wolfgang Overath = 87 | MEI MC
+Karl-Heinz Schnellinger = 86 | LE ZAG
+Willi Schulz = 85 | ZAG
+Wolfgang Weber = 84 | ZAG
+Hans Tilkowski = 84 | GOL
+Sigfried Held = 83 | PE MEI
+Sepp Maier = 82 | GOL
+Horst-Dieter Höttges = 82 | LD LE
+Lothar Emmerich = 81 | PE
+
+@POR
+Eusébio = 97 L | CA MEI
+Mário Coluna = 89 L | MC
+José Augusto = 86 | PD
+José Torres = 85 | CA
+António Simões = 85 | PE
+Jaime Graça = 83 | MC
+Hilário = 82 | LE
+Vicente = 82 | ZAG
+Germano = 82 | ZAG
+José Pereira = 80 | GOL
+Alexandre Baptista = 80 | ZAG
+João Morais = 80 | LD
+
+@URS
+Lev Yashin = 91 L | GOL
+Valery Voronin = 86 | VOL
+Albert Shesternyov = 86 | ZAG
+Igor Chislenko = 85 | PD
+Eduard Malofeyev = 83 | CA
+Yozhef Sabo = 83 | MC
+Anatoliy Banishevskiy = 83 | CA
+Murtaz Khurtsilava = 82 | ZAG
+Slava Metreveli = 82 | PD
+Valeriy Porkujan = 81 | PE CA
+
+@URU
+Pedro Rocha = 87 | MEI
+Ladislao Mazurkiewicz = 87 | GOL
+Néstor Gonçalves = 82 | VOL
+Horacio Troche = 82 | ZAG
+Julio César Cortés = 81 | VOL MC
+
+@ARG
+Silvio Marzolini = 87 | LE
+Antonio Rattín = 86 | VOL
+Roberto Perfumo = 86 | ZAG
+Luis Artime = 85 | CA
+Ermindo Onega = 85 | MEI
+Antonio Roma = 82 | GOL
+Oscar Más = 82 | PE
+Rafael Albrecht = 81 | ZAG
+
+@HUN
+Flórián Albert = 90 L | CA MEI
+Ferenc Bene = 88 | PD CA
+Kálmán Mészöly = 86 | ZAG
+János Farkas = 84 | CA
+Gyula Rákosi = 81 | MEI
+Sándor Mátrai = 81 | LE ZAG
+Ferenc Sipos = 80 | VOL ZAG
+József Gelei = 78 | GOL
+
+@PRK
+Pak Doo-ik = 80 | MEI CA
+Pak Seung-zin = 80 | VOL CA
+Han Bong-zin = 78 | PD
+
+@BRA +2
+Pelé = 96 L | MEI CA
+Garrincha = 88 | PD
+Gérson = 86 | MC
+Jairzinho = 85 | PD PE
+Gilmar = 85 | GOL
+Djalma Santos = 85 | LD
+Tostão = 83 | MEI CA
+Hilderaldo Bellini = 81 | ZAG
+Brito = 81 | ZAG
+Orlando = 81 | ZAG
+Lima = 80 | VOL
+Denílson = 79 | VOL
+Altair = 79 | ZAG LE
+Rildo = 79 | LE
+Paulo Henrique = 78 | LE
+
+@ESP +2
+Luis Suárez = 88 | MEI
+José Ángel Iribar = 86 | GOL
+Amancio = 86 | PD
+Paco Gento = 85 | PE
+Pirri = 83 | MC
+Ignacio Zoco = 82 | VOL ZAG
+Gallego = 80 | ZAG
+
+@ITA +3
+Gianni Rivera = 88 | MEI
+Sandro Mazzola = 88 | MEI CA
+Giacinto Facchetti = 88 | LE
+Tarcisio Burgnich = 83 | LD
+Enrico Albertosi = 82 | GOL
+Giacomo Bulgarelli = 82 | MC
+Sandro Salvadore = 82 | ZAG
+Roberto Rosato = 81 | ZAG
+
+@CHI
+Elías Figueroa = 84 | ZAG
+Leonel Sánchez = 83 | PE
+Rubén Marcos = 80 | VOL MC
+
+@MEX
+Enrique Borja = 80 | CA
+Ignacio Calderón = 80 | GOL
+Antonio Carbajal = 78 | GOL
+
+@BUL
+Georgi Asparuhov = 83 | CA
+Dimitar Penev = 80 | ZAG
+
+@SUI
+Köbi Kuhn = 78 | MC

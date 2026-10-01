@@ -1,0 +1,136 @@
+# Copa de 1974 — Alemanha Ocidental (o Carrossel Holandês)
+
+@FRG
+Franz Beckenbauer = 96 L | ZAG VOL
+Gerd Müller = 95 L | CA
+Sepp Maier = 90 L | GOL
+Paul Breitner = 89 L | LE MC
+Wolfgang Overath = 88 | MEI MC
+Berti Vogts = 87 | LD
+Uli Hoeneß = 87 | MC MEI
+Rainer Bonhof = 86 | MC
+Jürgen Grabowski = 85 | PD
+Bernd Hölzenbein = 84 | PE
+Hans-Georg Schwarzenbeck = 84 | ZAG
+Jupp Heynckes = 82 | CA
+Bernhard Cullmann = 80 | VOL ZAG
+Herbert Wimmer = 80 | MC
+
+@NED
+Johan Cruyff = 98 L | CA MEI PE
+Johan Neeskens = 91 L | MC
+Ruud Krol = 89 L | LE ZAG
+Rob Rensenbrink = 88 | PE CA
+Willem van Hanegem = 88 | MC
+Johnny Rep = 87 | PD
+Arie Haan = 85 | ZAG VOL
+Wim Jansen = 84 | VOL MC
+Wim Suurbier = 84 | LD
+Wim Rijsbergen = 82 | ZAG
+Piet Keizer = 81 | PE
+Jan Jongbloed = 78 | GOL
+
+@BRA
+Rivellino = 91 L | ME MEI
+Jairzinho = 88 | PD CA
+Leão = 87 | GOL
+Luís Pereira = 85 | ZAG
+Marinho Chagas = 85 | LE
+Paulo Cézar = 84 | MEI PE
+Ademir da Guia = 84 | MEI
+Marinho Peres = 83 | ZAG
+Carpegiani = 82 | MC VOL
+Zé Maria = 81 | LD
+Dirceu = 81 | PE
+Valdomiro = 80 | PD
+Nelinho = 80 | LD
+Leivinha = 80 | MEI CA
+Piazza = 80 | VOL ZAG
+
+@POL
+Kazimierz Deyna = 91 L | MEI MC
+Grzegorz Lato = 90 L | PD
+Andrzej Szarmach = 87 | CA
+Jan Tomaszewski = 87 | GOL
+Robert Gadocha = 86 | PE
+Jerzy Gorgoń = 84 | ZAG
+Władysław Żmuda = 84 | ZAG
+Henryk Kasperczak = 83 | MC
+Antoni Szymanowski = 83 | LD
+Zygmunt Maszczyk = 81 | MC
+Adam Musiał = 80 | LE
+
+@ITA
+Dino Zoff = 89 L | GOL
+Giacinto Facchetti = 85 | LE ZAG
+Gianni Rivera = 84 | MEI
+Sandro Mazzola = 84 | MEI PD
+Romeo Benetti = 83 | VOL
+Franco Causio = 83 | PD
+Gigi Riva = 82 | CA
+Fabio Capello = 82 | MC
+Giorgio Chinaglia = 80 | CA
+Pietro Anastasi = 80 | CA
+
+@ARG
+René Houseman = 84 | PD
+Roberto Perfumo = 84 | ZAG
+Mario Kempes = 83 | CA PE
+Ubaldo Fillol = 83 | GOL
+Carlos Babington = 82 | MEI
+Miguel Ángel Brindisi = 82 | MEI
+Rubén Ayala = 81 | CA
+Héctor Yazalde = 81 | CA
+
+@CHI
+Elías Figueroa = 88 L | ZAG
+Carlos Caszely = 83 | CA
+Carlos Reinoso = 80 | MC
+
+@SCO
+Billy Bremner = 87 | MC
+Kenny Dalglish = 86 | CA MEI
+Danny McGrain = 85 | LD LE
+Joe Jordan = 83 | CA
+Peter Lorimer = 83 | PD
+Denis Law = 82 | CA
+Sandy Jardine = 81 | LD
+Martin Buchan = 80 | ZAG
+
+@YUG
+Dragan Džajić = 88 | PE
+Branko Oblak = 83 | MC
+Ivica Šurjak = 82 | PE CA
+Josip Katalinski = 82 | ZAG
+Jovan Aćimović = 82 | MC
+Dušan Bajević = 82 | CA
+Enver Marić = 81 | GOL
+Ivan Buljan = 80 | LD ZAG
+
+@SWE
+Ronnie Hellström = 85 | GOL
+Ralf Edström = 83 | CA
+Björn Nordqvist = 80 | ZAG
+Bo Larsson = 80 | MC
+
+@GDR
+Jürgen Croy = 82 | GOL
+Jürgen Sparwasser = 81 | MEI
+Joachim Streich = 80 | CA
+
+@URU
+Fernando Morena = 83 | CA
+Ladislao Mazurkiewicz = 83 | GOL
+Pedro Rocha = 82 | MEI
+
+@BUL
+Hristo Bonev = 81 | MEI
+Dimitar Penev = 80 | ZAG
+Georgi Denev = 79 | PE
+
+@AUS -1
+
+@HAI -4
+Emmanuel Sanon = 79 | CA
+
+@ZAI -6

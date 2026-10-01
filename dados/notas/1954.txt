@@ -1,0 +1,134 @@
+# Copa de 1954 — Suíça (o Milagre de Berna)
+
+@FRG
+Fritz Walter = 92 L | MEI
+Helmut Rahn = 89 L | PD CA
+Max Morlock = 87 | MEI CA
+Hans Schäfer = 86 | PE
+Toni Turek = 85 | GOL
+Ottmar Walter = 84 | CA
+Horst Eckel = 84 | VOL MD
+Werner Liebrich = 84 | ZAG
+Josef Posipal = 83 | ZAG LD
+Werner Kohlmeyer = 82 | ZAG LE
+Karl Mai = 82 | VOL
+
+@HUN
+Ferenc Puskás = 97 L | MEI CA
+Sándor Kocsis = 95 L | CA MEI
+Nándor Hidegkuti = 93 L | MEI CA
+József Bozsik = 92 L | VOL MC
+Zoltán Czibor = 91 L | PE PD
+Gyula Grosics = 89 L | GOL
+Gyula Lóránt = 86 | ZAG
+Jenő Buzánszky = 85 | LD ZAG
+Mihály Lantos = 85 | LE ZAG
+József Zakariás = 85 | VOL
+Péter Palotás = 84 | CA MEI
+László Budai = 83 | PD
+József Tóth = 80 | PD
+
+@URU
+Juan Alberto Schiaffino = 93 L | MEI
+José Santamaría = 88 | ZAG
+Víctor Rodríguez Andrade = 87 | VOL LD
+Obdulio Varela = 86 | VOL ZAG
+William Martínez = 85 | ZAG
+Carlos Borges = 85 | PE
+Roque Máspoli = 84 | GOL
+Oscar Míguez = 84 | CA
+Julio Abbadie = 82 | PD
+Javier Ambrois = 82 | MEI
+Juan Hohberg = 80 | CA
+Luis Cruz = 80 | LE
+
+@AUT
+Ernst Ocwirk = 91 L | MC VOL
+Gerhard Hanappi = 87 | MC VOL
+Erich Probst = 86 | CA
+Ernst Happel = 85 | ZAG
+Walter Zeman = 85 | GOL
+Ernst Stojaspal = 84 | MEI
+Theodor Wagner = 84 | CA
+Karl Koller = 83 | MC
+Robert Dienst = 82 | CA
+Alfred Körner = 82 | PE
+Robert Körner = 80 | PD
+Kurt Schmied = 80 | GOL
+Leopold Barschandt = 80 | ZAG
+
+@YUG
+Vladimir Beara = 88 | GOL
+Bernard Vukas = 87 | PE MEI
+Branko Zebec = 86 | LE PE
+Rajko Mitić = 85 | MEI
+Stjepan Bobek = 85 | MEI CA
+Vujadin Boškov = 84 | VOL
+Zlatko Čajkovski = 84 | VOL
+Miloš Milutinović = 84 | PD CA
+Branko Stanković = 82 | ZAG LD
+Tomislav Crnković = 82 | ZAG LE
+Ivica Horvat = 81 | ZAG
+
+@ENG
+Stanley Matthews = 91 L | PD
+Tom Finney = 89 | PE PD
+Billy Wright = 88 | ZAG VOL
+Nat Lofthouse = 86 | CA
+Roger Byrne = 82 | LE ZAG
+Jimmy Dickinson = 82 | VOL
+Ivor Broadis = 81 | MEI
+Gil Merrick = 80 | GOL
+
+@BRA
+Didi = 88 | MEI
+Nílton Santos = 88 | LE ZAG
+Djalma Santos = 87 | LD ZAG
+Julinho = 87 | PD
+Castilho = 84 | GOL
+Bauer = 84 | VOL
+Pinga = 81 | MEI
+Baltazar = 81 | CA
+Brandãozinho = 80 | VOL
+Pinheiro = 80 | ZAG
+Rodrigues = 78 | PE
+
+@FRA
+Raymond Kopa = 88 | MEI CA
+Robert Jonquet = 83 | ZAG
+Roger Marche = 82 | ZAG LE
+Jean Vincent = 82 | PE
+François Remetter = 79 | GOL
+
+@TUR
+Lefter Küçükandonyadis = 83 | MEI
+Turgay Şeren = 80 | GOL
+Burhan Sargun = 79 | CA
+Suat Mamat = 78 | CA
+
+@SUI
+Robert Ballaman = 82 | MEI CA
+Josef Hügi = 82 | CA
+Roger Bocquet = 80 | ZAG
+Jacques Fatton = 80 | PE
+
+@ITA
+Giampiero Boniperti = 84 | MEI CA
+Giorgio Ghezzi = 79 | GOL
+Benito Lorenzi = 79 | CA
+
+@TCH
+Ladislav Novák = 82 | LE ZAG
+Svatopluk Pluskal = 80 | VOL
+
+@BEL
+Léopold Anoul = 80 | CA
+Henri Coppens = 79 | CA
+
+@SCO -1
+Tommy Docherty = 78 | VOL
+
+@MEX
+Antonio Carbajal = 80 | GOL
+
+@KOR -5

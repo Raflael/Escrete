@@ -1,0 +1,277 @@
+# Copa de 2018 — Rússia (o bi francês, Mbappé aos 19, Modrić bola de ouro)
+
+@FRA
+Kylian Mbappé = 92 L | PD CA
+Antoine Griezmann = 91 | MEI CA
+N'Golo Kanté = 90 | VOL
+Paul Pogba = 88 | MC
+Raphaël Varane = 89 | ZAG
+Hugo Lloris = 88 | GOL
+Samuel Umtiti = 86 | ZAG
+Olivier Giroud = 84 | CA
+Blaise Matuidi = 84 | MC ME
+Benjamin Pavard = 83 | LD
+Lucas Hernandez = 83 | LE
+Ousmane Dembélé = 83 | PD
+Corentin Tolisso = 82 | MC
+Nabil Fekir = 82 | MEI
+Thomas Lemar = 81 | PE
+Steven Nzonzi = 81 | VOL
+
+@CRO
+Luka Modrić = 94 L | MEI MC
+Ivan Rakitić = 88 | MC
+Ivan Perišić = 87 | PE
+Mario Mandžukić = 87 | CA
+Dejan Lovren = 84 | ZAG
+Domagoj Vida = 83 | ZAG
+Danijel Subašić = 84 | GOL
+Marcelo Brozović = 84 | VOL
+Ante Rebić = 83 | PD
+Andrej Kramarić = 82 | MEI CA
+Šime Vrsaljko = 82 | LD
+Ivan Strinić = 80 | LE
+Mateo Kovačić = 83 | MC
+
+@BEL
+Kevin De Bruyne = 91 L | MEI MC
+Eden Hazard = 92 L | PE MEI
+Thibaut Courtois = 90 | GOL
+Romelu Lukaku = 88 | CA
+Jan Vertonghen = 86 | ZAG LE
+Toby Alderweireld = 86 | ZAG
+Vincent Kompany = 86 | ZAG
+Axel Witsel = 84 | VOL
+Dries Mertens = 84 | PD
+Thomas Meunier = 82 | MD LD
+Marouane Fellaini = 81 | MC
+Nacer Chadli = 81 | ME
+Yannick Carrasco = 81 | PE
+Mousa Dembélé = 82 | MC
+Youri Tielemans = 80 | MC
+
+@ENG
+Harry Kane = 90 | CA
+Raheem Sterling = 85 | PD CA
+John Stones = 84 | ZAG
+Harry Maguire = 83 | ZAG
+Kieran Trippier = 83 | MD LD
+Jordan Pickford = 83 | GOL
+Kyle Walker = 84 | ZAG LD
+Jordan Henderson = 82 | VOL
+Dele Alli = 83 | MEI
+Jesse Lingard = 81 | MEI
+Marcus Rashford = 81 | CA
+Ashley Young = 80 | ME
+
+@URU
+Luis Suárez = 90 | CA
+Edinson Cavani = 88 | CA
+Diego Godín = 88 | ZAG
+José Giménez = 84 | ZAG
+Fernando Muslera = 83 | GOL
+Rodrigo Bentancur = 82 | MC
+Lucas Torreira = 82 | VOL
+Matías Vecino = 81 | MC
+Martín Cáceres = 81 | LD LE
+
+@BRA
+Neymar = 91 L | PE MEI
+Philippe Coutinho = 88 | MEI
+Casemiro = 88 | VOL
+Alisson Becker = 88 | GOL
+Thiago Silva = 86 | ZAG
+Marcelo = 87 | LE
+Miranda = 84 | ZAG
+Willian = 84 | PD
+Gabriel Jesus = 83 | CA
+Paulinho = 83 | MC
+Roberto Firmino = 85 | CA
+Douglas Costa = 84 | PD
+Fernandinho = 83 | VOL
+Fagner = 80 | LD
+Ederson = 85 | GOL
+Danilo = 80 | LD
+
+@RUS
+Denis Cheryshev = 82 | PE
+Artem Dzyuba = 81 | CA
+Aleksandr Golovin = 82 | MEI
+Igor Akinfeev = 83 | GOL
+Sergei Ignashevich = 80 | ZAG
+Roman Zobnin = 79 | MC
+
+@SWE
+Emil Forsberg = 83 | ME MEI
+Andreas Granqvist = 82 | ZAG
+Victor Lindelöf = 81 | ZAG
+Robin Olsen = 80 | GOL
+Marcus Berg = 80 | CA
+Sebastian Larsson = 79 | MC
+
+@POR
+Cristiano Ronaldo = 93 L | CA PE
+Bernardo Silva = 85 | MD MEI
+Pepe = 83 | ZAG
+João Moutinho = 82 | MC
+Rui Patrício = 83 | GOL
+Raphaël Guerreiro = 82 | LE
+William Carvalho = 82 | VOL
+Ricardo Quaresma = 81 | PD
+Gonçalo Guedes = 80 | CA
+
+@ESP
+Isco = 87 | MEI
+Sergio Ramos = 89 | ZAG
+Sergio Busquets = 87 | VOL
+David de Gea = 87 | GOL
+David Silva = 86 | MEI
+Andrés Iniesta = 86 | MC MEI
+Gerard Piqué = 86 | ZAG
+Jordi Alba = 84 | LE
+Diego Costa = 83 | CA
+Koke = 83 | MC
+Marco Asensio = 83 | PD
+Thiago Alcântara = 84 | MC
+Dani Carvajal = 83 | LD
+Iago Aspas = 82 | CA
+Nacho = 80 | ZAG
+
+@ARG
+Lionel Messi = 93 L | MEI CA
+Sergio Agüero = 87 | CA
+Ángel Di María = 85 | PE PD
+Paulo Dybala = 85 | MEI CA
+Gonzalo Higuaín = 84 | CA
+Nicolás Otamendi = 83 | ZAG
+Javier Mascherano = 81 | VOL
+Éver Banega = 81 | MC
+Nicolás Tagliafico = 80 | LE
+Marcos Rojo = 80 | ZAG
+Franco Armani = 80 | GOL
+
+@DEN
+Christian Eriksen = 86 | MEI MC
+Kasper Schmeichel = 85 | GOL
+Simon Kjær = 83 | ZAG
+Thomas Delaney = 80 | MC
+Yussuf Poulsen = 79 | CA
+Andreas Christensen = 80 | ZAG
+
+@SUI
+Granit Xhaka = 83 | MC
+Xherdan Shaqiri = 83 | PD MEI
+Yann Sommer = 82 | GOL
+Manuel Akanji = 81 | ZAG
+Ricardo Rodriguez = 81 | LE
+
+@MEX
+Hirving Lozano = 83 | PE
+Guillermo Ochoa = 84 | GOL
+Javier Hernández = 81 | CA
+Carlos Vela = 82 | MEI PD
+Héctor Herrera = 81 | MC
+Andrés Guardado = 80 | MC
+Héctor Moreno = 80 | ZAG
+
+@COL
+James Rodríguez = 86 | MEI
+Radamel Falcao = 85 | CA
+Juan Cuadrado = 84 | PD
+Davinson Sánchez = 81 | ZAG
+Yerry Mina = 81 | ZAG
+David Ospina = 82 | GOL
+Juan Fernando Quintero = 81 | MEI
+
+@JPN
+Takashi Inui = 80 | PE
+Shinji Kagawa = 80 | MEI
+Yuya Osako = 79 | CA
+Maya Yoshida = 79 | ZAG
+
+@GER +2
+Toni Kroos = 89 | MC
+Manuel Neuer = 87 | GOL
+Joshua Kimmich = 86 | LD
+Thomas Müller = 85 | PD MEI
+Mats Hummels = 86 | ZAG
+Jérôme Boateng = 85 | ZAG
+Marco Reus = 85 | PE MEI
+Mesut Özil = 84 | MEI
+Timo Werner = 83 | CA
+Leon Goretzka = 82 | MC
+Ilkay Gündoğan = 83 | MC
+Julian Draxler = 81 | PE
+Sami Khedira = 81 | MC
+Marc-André ter Stegen = 86 | GOL
+
+@EGY
+Mohamed Salah = 90 L | PD
+Mohamed Elneny = 80 | VOL
+Mohamed El Shenawy = 80 | GOL
+
+@SEN
+Sadio Mané = 88 | PE PD
+Kalidou Koulibaly = 87 | ZAG
+Idrissa Gueye = 82 | VOL
+Ismaïla Sarr = 80 | PD
+
+@POL
+Robert Lewandowski = 90 L | CA
+Piotr Zieliński = 83 | MC
+Wojciech Szczęsny = 84 | GOL
+Grzegorz Krychowiak = 80 | VOL
+Kamil Glik = 81 | ZAG
+
+@KOR
+Son Heung-min = 87 | CA PE
+Ki Sung-yueng = 80 | MC
+Jo Hyeon-woo = 80 | GOL
+
+@SRB
+Sergej Milinković-Savić = 84 | MEI MC
+Aleksandar Kolarov = 82 | LE
+Dušan Tadić = 82 | MEI PD
+Aleksandar Mitrović = 82 | CA
+Nemanja Matić = 82 | VOL
+
+@MAR
+Hakim Ziyech = 83 | MEI PD
+Achraf Hakimi = 81 | LD LE
+Medhi Benatia = 82 | ZAG
+Nordin Amrabat = 80 | PD
+
+@NGA
+Wilfred Ndidi = 81 | VOL
+Ahmed Musa = 80 | CA PE
+Victor Moses = 80 | PD LD
+
+@IRN
+Sardar Azmoun = 81 | CA
+Alireza Jahanbakhsh = 80 | PD
+Mehdi Taremi = 80 | CA
+Alireza Beiranvand = 80 | GOL
+
+@PER
+Paolo Guerrero = 81 | CA
+Christian Cueva = 80 | MEI
+André Carrillo = 80 | PD
+
+@CRC
+Keylor Navas = 87 | GOL
+Bryan Ruiz = 80 | MEI
+
+@ISL
+Gylfi Sigurðsson = 81 | MEI
+
+@AUS
+Aaron Mooy = 79 | MC
+Mathew Ryan = 79 | GOL
+
+@TUN
+Wahbi Khazri = 79 | MEI
+
+@KSA
+Salem Al-Dawsari = 78 | PE
+
+@PAN -2

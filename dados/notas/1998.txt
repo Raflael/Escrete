@@ -1,0 +1,305 @@
+# Copa de 1998 — França (Zidane na final, a convulsão de Ronaldo)
+
+@FRA
+Zinedine Zidane = 96 L | MEI
+Lilian Thuram = 91 L | LD ZAG
+Marcel Desailly = 91 L | ZAG VOL
+Fabien Barthez = 89 L | GOL
+Laurent Blanc = 89 L | ZAG
+Didier Deschamps = 88 | VOL
+Bixente Lizarazu = 88 | LE
+Youri Djorkaeff = 87 | MEI CA
+Emmanuel Petit = 86 | VOL MC
+Thierry Henry = 86 | PE CA
+Patrick Vieira = 85 | VOL
+David Trezeguet = 84 | CA
+Robert Pires = 84 | PE MEI
+Christian Karembeu = 83 | MD MC
+Christophe Dugarry = 82 | CA
+Frank Leboeuf = 82 | ZAG
+Vincent Candela = 81 | LE LD
+Bernard Diomède = 80 | PE
+Alain Boghossian = 80 | MC
+Stéphane Guivarc'h = 78 | CA
+
+@BRA
+Ronaldo = 97 L | CA
+Rivaldo = 92 L | MEI PE
+Roberto Carlos = 91 L | LE
+Cafu = 90 L | LD
+Bebeto = 86 | CA
+Leonardo = 86 | MEI
+Dunga = 86 | VOL
+Aldair = 86 | ZAG
+Cláudio Taffarel = 85 | GOL
+César Sampaio = 84 | VOL
+Denílson = 84 | PE MEI
+Edmundo = 83 | CA
+Júnior Baiano = 81 | ZAG
+
+@NED
+Dennis Bergkamp = 93 L | CA MEI
+Edgar Davids = 89 | MC
+Jaap Stam = 88 | ZAG
+Frank de Boer = 87 | ZAG
+Edwin van der Sar = 87 | GOL
+Marc Overmars = 87 | PE
+Patrick Kluivert = 87 | CA
+Clarence Seedorf = 86 | MC
+Phillip Cocu = 85 | MC ME
+Ronald de Boer = 84 | PD MC
+Arthur Numan = 82 | LE
+Michael Reiziger = 82 | LD
+Jimmy Floyd Hasselbaink = 82 | CA
+Wim Jonk = 81 | MC
+Boudewijn Zenden = 81 | PE
+Aron Winter = 81 | MD
+
+@CRO
+Davor Šuker = 92 L | CA
+Zvonimir Boban = 88 | MEI
+Robert Prosinečki = 85 | MC MEI
+Robert Jarni = 85 | LE
+Aljoša Asanović = 84 | MC
+Slaven Bilić = 84 | ZAG
+Igor Štimac = 83 | ZAG
+Mario Stanić = 83 | MD CA
+Dario Šimić = 82 | ZAG LD
+Zvonimir Soldo = 82 | VOL
+Dražen Ladić = 82 | GOL
+Goran Vlaović = 81 | CA
+
+@ITA
+Paolo Maldini = 91 L | LE ZAG
+Roberto Baggio = 89 L | MEI CA
+Christian Vieri = 89 | CA
+Fabio Cannavaro = 88 | ZAG
+Alessandro Nesta = 88 | ZAG
+Alessandro Del Piero = 88 | MEI CA
+Gianluca Pagliuca = 85 | GOL
+Alessandro Costacurta = 85 | ZAG LD
+Demetrio Albertini = 85 | MC
+Dino Baggio = 83 | MC
+Giuseppe Bergomi = 83 | ZAG
+Filippo Inzaghi = 83 | CA
+Luigi Di Biagio = 82 | MC
+Enrico Chiesa = 82 | CA
+Angelo Di Livio = 81 | MD
+Roberto Di Matteo = 81 | MC
+Francesco Moriero = 80 | MD
+Gianluca Pessotto = 80 | LE
+
+@DEN
+Peter Schmeichel = 90 L | GOL
+Michael Laudrup = 89 L | MEI
+Brian Laudrup = 88 | PD CA
+Marc Rieper = 82 | ZAG
+Thomas Helveg = 82 | LD MC
+Martin Jørgensen = 82 | PD
+Ebbe Sand = 82 | CA
+Allan Nielsen = 81 | MC
+Jes Høgh = 80 | ZAG
+Jan Heintze = 80 | LE
+
+@GER
+Jürgen Klinsmann = 86 | CA
+Oliver Bierhoff = 86 | CA
+Oliver Kahn = 85 | GOL
+Lothar Matthäus = 84 | ZAG
+Andreas Köpke = 84 | GOL
+Jürgen Kohler = 84 | ZAG
+Andreas Möller = 83 | MEI
+Christian Wörns = 82 | ZAG
+Thomas Häßler = 82 | MEI
+Dietmar Hamann = 82 | VOL
+Jens Jeremies = 81 | VOL
+Christian Ziege = 81 | LE
+Markus Babbel = 81 | ZAG
+
+@ARG
+Gabriel Batistuta = 91 L | CA
+Juan Sebastián Verón = 87 | MC
+Javier Zanetti = 87 | LD MD
+Ariel Ortega = 86 | MEI
+Roberto Ayala = 86 | ZAG
+Diego Simeone = 85 | MC
+Hernán Crespo = 85 | CA
+Claudio López = 84 | CA
+Marcelo Gallardo = 83 | MEI
+Matías Almeyda = 82 | VOL
+Carlos Roa = 82 | GOL
+José Chamot = 81 | LE
+Roberto Sensini = 81 | ZAG
+
+@ENG
+Alan Shearer = 88 | CA
+David Beckham = 86 | MD
+Michael Owen = 86 | CA
+David Seaman = 86 | GOL
+Paul Scholes = 85 | MEI
+Tony Adams = 85 | ZAG
+Sol Campbell = 85 | ZAG
+Paul Ince = 83 | VOL
+Teddy Sheringham = 83 | CA
+Gary Neville = 82 | LD
+Graeme Le Saux = 81 | LE
+Darren Anderton = 81 | MD
+Gareth Southgate = 81 | ZAG
+David Batty = 80 | VOL
+
+@ESP
+Raúl = 88 | CA MEI
+Fernando Hierro = 88 | ZAG VOL
+Luis Enrique = 85 | ME MEI
+Andoni Zubizarreta = 83 | GOL
+Sergi = 82 | LE
+Alfonso = 82 | CA
+Joseba Etxeberria = 81 | PD
+Miguel Ángel Nadal = 81 | ZAG VOL
+Rafael Alkorta = 80 | ZAG
+Guillermo Amor = 80 | MC
+
+@YUG
+Predrag Mijatović = 88 | CA
+Dragan Stojković = 86 | MEI
+Siniša Mihajlović = 85 | ZAG LE
+Savo Milošević = 83 | CA
+Vladimir Jugović = 83 | MC
+Slaviša Jokanović = 82 | VOL
+Dejan Stanković = 81 | MD
+Ivica Kralj = 80 | GOL
+
+@CHI
+Marcelo Salas = 90 L | CA
+Iván Zamorano = 88 | CA
+Nelson Tapia = 80 | GOL
+Clarence Acuña = 80 | MC
+Javier Margas = 79 | ZAG
+
+@PAR
+José Luis Chilavert = 90 L | GOL
+Carlos Gamarra = 86 | ZAG
+Celso Ayala = 84 | ZAG
+Francisco Arce = 82 | LD
+José Cardozo = 82 | CA
+Roberto Acuña = 81 | MC
+Julio César Enciso = 80 | MC
+
+@NGA
+Jay-Jay Okocha = 88 | MEI
+Nwankwo Kanu = 86 | CA
+Sunday Oliseh = 85 | VOL
+Finidi George = 83 | PD
+Taribo West = 83 | ZAG
+Celestine Babayaro = 82 | LE
+Victor Ikpeba = 82 | CA
+Garba Lawal = 80 | PE
+Uche Okechukwu = 80 | ZAG
+Peter Rufai = 80 | GOL
+Mutiu Adepoju = 80 | MC
+
+@MEX
+Luis Hernández = 85 | CA
+Cuauhtémoc Blanco = 85 | MEI CA
+Jorge Campos = 85 | GOL
+Claudio Suárez = 83 | ZAG
+Alberto García Aspe = 81 | MC
+Pável Pardo = 81 | MC LD
+Ramón Ramírez = 80 | ME
+Duilio Davino = 80 | ZAG
+
+@NOR
+Tore André Flo = 83 | CA
+Ole Gunnar Solskjær = 83 | CA
+Ronny Johnsen = 83 | ZAG
+Henning Berg = 82 | ZAG LD
+Stig Inge Bjørnebye = 81 | LE
+Kjetil Rekdal = 81 | MC
+Øyvind Leonhardsen = 81 | MC
+Erik Mykland = 80 | MC
+
+@ROU
+Gheorghe Hagi = 88 L | MEI
+Gheorghe Popescu = 84 | ZAG VOL
+Dan Petrescu = 84 | LD PD
+Adrian Ilie = 83 | CA
+Viorel Moldovan = 82 | CA
+Dorinel Munteanu = 82 | ME
+Bogdan Stelea = 81 | GOL
+Constantin Gâlcă = 81 | VOL
+
+@BUL
+Hristo Stoichkov = 86 | CA
+Krasimir Balakov = 84 | MEI
+Trifon Ivanov = 81 | ZAG
+Emil Kostadinov = 80 | CA
+
+@BEL
+Marc Wilmots = 83 | MEI
+Enzo Scifo = 82 | MEI
+Luc Nilis = 82 | CA
+Filip De Wilde = 80 | GOL
+
+@COL
+Carlos Valderrama = 84 | MEI
+Freddy Rincón = 82 | MC
+Faryd Mondragón = 81 | GOL
+Mauricio Serna = 80 | VOL
+
+@CMR
+Patrick Mboma = 82 | CA
+Rigobert Song = 81 | ZAG
+Jacques Songo'o = 81 | GOL
+Pierre Womé = 79 | LE
+
+@MAR
+Mustapha Hadji = 84 | MEI
+Noureddine Naybet = 83 | ZAG
+Salaheddine Bassir = 81 | CA
+Abdeljalil Hadda = 80 | CA
+Youssef Chippo = 80 | MC
+
+@IRN
+Ali Daei = 83 | CA
+Khodadad Azizi = 81 | CA
+Mehdi Mahdavikia = 81 | PD LD
+Karim Bagheri = 80 | VOL
+
+@RSA
+Lucas Radebe = 83 | ZAG
+Benni McCarthy = 80 | CA
+Shaun Bartlett = 80 | CA
+
+@KSA
+Sami Al-Jaber = 82 | CA
+Mohamed Al-Deayea = 81 | GOL
+
+@JPN
+Hidetoshi Nakata = 84 | MEI
+Yoshikatsu Kawaguchi = 79 | GOL
+
+@KOR
+Hong Myung-bo = 82 | ZAG
+Yoo Sang-chul = 79 | MC
+
+@USA
+Claudio Reyna = 81 | MC
+Cobi Jones = 78 | PE
+Earnie Stewart = 78 | MEI
+
+@SCO
+Colin Hendry = 81 | ZAG
+John Collins = 81 | MC
+Kevin Gallacher = 79 | CA
+
+@AUT
+Toni Polster = 81 | CA
+Andi Herzog = 81 | MEI
+Ivica Vastić = 80 | CA
+
+@TUN
+Chokri El Ouaer = 78 | GOL
+Zoubeir Baya = 78 | MC
+
+@JAM
+Theodore Whitmore = 78 | MC

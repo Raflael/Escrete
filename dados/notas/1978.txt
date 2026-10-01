@@ -1,0 +1,152 @@
+# Copa de 1978 — Argentina (Kempes, e a Holanda sem Cruyff)
+
+@ARG
+Mario Kempes = 95 L | CA MEI
+Daniel Passarella = 91 L | ZAG
+Ubaldo Fillol = 90 L | GOL
+Osvaldo Ardiles = 87 | MC
+Leopoldo Luque = 86 | CA
+Américo Gallego = 85 | VOL
+Alberto Tarantini = 85 | LE
+Daniel Bertoni = 85 | PD
+René Houseman = 84 | PD
+Jorge Olguin = 83 | LD
+Luis Galván = 83 | ZAG
+José Daniel Valencia = 80 | MEI
+Oscar Ortiz = 80 | PE
+
+@NED
+Rob Rensenbrink = 91 L | PE CA
+Ruud Krol = 89 L | ZAG LE
+Johan Neeskens = 88 | MC
+Arie Haan = 88 | MC ZAG
+Johnny Rep = 86 | PD CA
+Willy van de Kerkhof = 85 | MC
+René van de Kerkhof = 84 | PD
+Wim Jansen = 83 | VOL LD
+Ernie Brandts = 81 | ZAG
+Wim Suurbier = 81 | LD
+Piet Schrijvers = 80 | GOL
+Jan Poortvliet = 80 | LE
+Jan Jongbloed = 79 | GOL
+
+@ITA
+Gaetano Scirea = 89 L | ZAG
+Dino Zoff = 88 L | GOL
+Paolo Rossi = 88 | CA
+Roberto Bettega = 87 | CA
+Claudio Gentile = 86 | LD ZAG
+Marco Tardelli = 86 | MC
+Giancarlo Antognoni = 86 | MEI
+Antonio Cabrini = 85 | LE
+Franco Causio = 85 | PD
+Romeo Benetti = 83 | VOL
+Renato Zaccarelli = 81 | MC
+Mauro Bellugi = 80 | ZAG
+
+@BRA
+Zico = 90 L | MEI
+Rivellino = 87 | MEI
+Dirceu = 86 | ME MEI
+Leão = 86 | GOL
+Roberto Dinamite = 85 | CA
+Toninho Cerezo = 85 | VOL MC
+Oscar = 84 | ZAG
+Nelinho = 83 | LD
+Reinaldo = 83 | CA
+Batista = 82 | VOL
+Amaral = 82 | ZAG
+Gil = 82 | PD
+Edinho = 81 | ZAG LE
+Jorge Mendonça = 81 | MEI
+Toninho = 80 | LD
+Rodrigues Neto = 79 | LE
+
+@POL
+Kazimierz Deyna = 87 | MEI
+Grzegorz Lato = 87 | PD
+Zbigniew Boniek = 85 | MEI
+Andrzej Szarmach = 84 | CA
+Władysław Żmuda = 84 | ZAG
+Jan Tomaszewski = 83 | GOL
+Włodzimierz Lubański = 83 | CA
+Jerzy Gorgoń = 81 | ZAG
+Antoni Szymanowski = 81 | LD
+Adam Nawałka = 80 | MC
+
+@FRG
+Sepp Maier = 88 | GOL
+Karl-Heinz Rummenigge = 87 | PD CA
+Berti Vogts = 85 | LD
+Rainer Bonhof = 85 | MC
+Manfred Kaltz = 85 | LD ZAG
+Klaus Fischer = 84 | CA
+Hansi Müller = 83 | MC
+Heinz Flohe = 83 | MC
+Bernd Hölzenbein = 82 | PE
+Rolf Rüssmann = 81 | ZAG
+Bernard Dietz = 81 | LE
+Dieter Müller = 81 | CA
+
+@AUT
+Hans Krankl = 87 | CA
+Herbert Prohaska = 86 | MC
+Bruno Pezzey = 84 | ZAG
+Friedrich Koncilia = 83 | GOL
+Kurt Jara = 81 | MC
+Erich Obermayer = 80 | ZAG
+Wilhelm Kreuz = 80 | CA
+
+@PER
+Teófilo Cubillas = 88 L | MEI
+Héctor Chumpitaz = 84 | ZAG
+César Cueto = 84 | MC
+Juan Carlos Oblitas = 82 | PE
+José Velásquez = 81 | VOL
+Juan José Muñante = 81 | PD
+Ramón Quiroga = 76 | GOL
+
+@FRA
+Michel Platini = 88 | MEI
+Marius Trésor = 86 | ZAG
+Dominique Rocheteau = 84 | PD
+Maxime Bossis = 84 | LE ZAG
+Didier Six = 83 | PE
+Henri Michel = 81 | MC
+Patrick Battiston = 80 | LD
+Bernard Lacombe = 80 | CA
+
+@SCO
+Kenny Dalglish = 87 | CA MEI
+Graeme Souness = 85 | MC
+Archie Gemmill = 83 | MC
+John Robertson = 83 | PE
+Joe Jordan = 82 | CA
+Martin Buchan = 81 | ZAG LE
+Asa Hartford = 81 | MC
+Alan Rough = 78 | GOL
+
+@ESP
+Santillana = 84 | CA
+Juanito = 82 | CA PD
+Juan Manuel Asensi = 82 | MEI
+Migueli = 81 | ZAG
+Julio Cardeñosa = 80 | MC
+Pirri = 80 | VOL
+
+@SWE
+Ronnie Hellström = 85 | GOL
+
+@HUN -1
+Tibor Nyilasi = 83 | MC
+András Törőcsik = 82 | CA
+
+@TUN +1
+Tarak Dhiab = 80 | MEI
+
+@IRN
+Ali Parvin = 80 | MEI
+Nasser Hejazi = 80 | GOL
+
+@MEX -3
+Hugo Sánchez = 82 | CA

@@ -1,0 +1,293 @@
+# Copa de 2006 — Alemanha (o tetra italiano, a cabeçada de Zidane)
+
+@ITA
+Fabio Cannavaro = 94 L | ZAG
+Gianluigi Buffon = 93 L | GOL
+Andrea Pirlo = 92 L | MC VOL
+Gianluca Zambrotta = 88 | LD LE
+Francesco Totti = 88 | MEI CA
+Alessandro Del Piero = 87 | MEI CA
+Gennaro Gattuso = 86 | VOL
+Luca Toni = 86 | CA
+Alessandro Nesta = 86 | ZAG
+Fabio Grosso = 85 | LE
+Daniele De Rossi = 85 | MC VOL
+Marco Materazzi = 84 | ZAG
+Mauro Camoranesi = 84 | MD
+Simone Perrotta = 83 | MC ME
+Alberto Gilardino = 83 | CA
+Vincenzo Iaquinta = 81 | CA
+Filippo Inzaghi = 82 | CA
+Cristian Zaccardo = 79 | LD
+
+@FRA
+Zinedine Zidane = 95 L | MEI
+Thierry Henry = 93 L | CA
+Lilian Thuram = 89 | ZAG
+Patrick Vieira = 89 | MC VOL
+Claude Makélélé = 88 | VOL
+William Gallas = 86 | ZAG
+Franck Ribéry = 85 | PD PE
+Fabien Barthez = 84 | GOL
+Willy Sagnol = 84 | LD
+Florent Malouda = 84 | PE
+Eric Abidal = 83 | LE
+David Trezeguet = 86 | CA
+Sylvain Wiltord = 81 | PD
+Louis Saha = 81 | CA
+
+@GER
+Miroslav Klose = 89 | CA
+Michael Ballack = 90 L | MC MEI
+Philipp Lahm = 88 | LE LD
+Bastian Schweinsteiger = 86 | ME MC
+Lukas Podolski = 86 | CA PE
+Jens Lehmann = 86 | GOL
+Torsten Frings = 85 | VOL
+Per Mertesacker = 84 | ZAG
+Bernd Schneider = 83 | MD
+Christoph Metzelder = 83 | ZAG
+Arne Friedrich = 81 | LD
+Oliver Kahn = 84 | GOL
+Tim Borowski = 80 | MC
+Sebastian Kehl = 80 | VOL
+Oliver Neuville = 80 | CA
+
+@POR
+Cristiano Ronaldo = 88 | PD PE
+Luís Figo = 88 | PD MEI
+Deco = 87 | MEI
+Ricardo Carvalho = 87 | ZAG
+Maniche = 84 | MC
+Ricardo = 84 | GOL
+Pauleta = 83 | CA
+Simão = 83 | PE
+Costinha = 81 | VOL
+Fernando Meira = 81 | ZAG
+Miguel = 81 | LD
+Tiago = 81 | MC
+Petit = 80 | VOL
+Nuno Valente = 80 | LE
+
+@BRA
+Ronaldinho = 93 L | MEI PE
+Kaká = 91 L | MEI
+Ronaldo = 90 L | CA
+Adriano = 88 | CA
+Roberto Carlos = 87 | LE
+Cafu = 86 | LD
+Lúcio = 87 | ZAG
+Juninho Pernambucano = 86 | MC MEI
+Zé Roberto = 85 | MC ME
+Juan = 84 | ZAG
+Dida = 85 | GOL
+Robinho = 84 | PE CA
+Emerson = 83 | VOL
+Gilberto Silva = 83 | VOL
+Fred = 80 | CA
+
+@ARG
+Juan Román Riquelme = 90 L | MEI
+Hernán Crespo = 87 | CA
+Roberto Ayala = 86 | ZAG
+Javier Mascherano = 86 | VOL
+Carlos Tevez = 85 | CA
+Lionel Messi = 86 | PD CA
+Esteban Cambiasso = 85 | MC
+Maxi Rodríguez = 84 | MD ME
+Javier Saviola = 83 | CA
+Gabriel Heinze = 83 | ZAG LE
+Juan Pablo Sorín = 83 | LE
+Roberto Abbondanzieri = 83 | GOL
+Pablo Aimar = 83 | MEI
+Lucho González = 81 | MC
+Nicolás Burdisso = 80 | ZAG LD
+
+@ENG
+Steven Gerrard = 88 | MC
+Frank Lampard = 88 | MC
+John Terry = 88 | ZAG
+Wayne Rooney = 87 | CA
+Rio Ferdinand = 87 | ZAG
+Ashley Cole = 87 | LE
+David Beckham = 85 | MD
+Joe Cole = 84 | ME
+Michael Owen = 84 | CA
+Owen Hargreaves = 83 | VOL
+Gary Neville = 82 | LD
+Paul Robinson = 81 | GOL
+Peter Crouch = 81 | CA
+Jamie Carragher = 81 | ZAG
+
+@ESP
+Xavi = 87 | MC
+Fernando Torres = 86 | CA
+David Villa = 86 | CA
+Iker Casillas = 87 | GOL
+Carles Puyol = 86 | ZAG
+Xabi Alonso = 86 | MC
+Raúl = 85 | CA
+Cesc Fàbregas = 83 | MC
+Sergio Ramos = 83 | LD
+Joaquín = 81 | PD
+Luis García = 80 | MEI
+Marcos Senna = 81 | VOL
+
+@NED
+Arjen Robben = 87 | PD
+Ruud van Nistelrooy = 87 | CA
+Edwin van der Sar = 87 | GOL
+Wesley Sneijder = 84 | MEI
+Robin van Persie = 84 | CA
+Phillip Cocu = 82 | MC
+Giovanni van Bronckhorst = 82 | LE
+Mark van Bommel = 82 | VOL
+Rafael van der Vaart = 83 | MEI
+Dirk Kuyt = 82 | CA PD
+
+@UKR
+Andriy Shevchenko = 89 L | CA
+Anatoliy Tymoshchuk = 83 | VOL
+Oleksandr Shovkovskyi = 82 | GOL
+Andriy Voronin = 80 | CA
+
+@CZE
+Pavel Nedvěd = 89 L | MC MEI
+Petr Čech = 89 | GOL
+Tomáš Rosický = 86 | MEI
+Jan Koller = 83 | CA
+Milan Baroš = 83 | CA
+Marek Jankulovski = 82 | LE
+Karel Poborský = 81 | MD
+Tomáš Ujfaluši = 81 | ZAG
+Jaroslav Plašil = 80 | MC
+
+@GHA
+Michael Essien = 88 | MC
+Stephen Appiah = 84 | MC
+Sulley Muntari = 82 | ME
+Asamoah Gyan = 81 | CA
+John Mensah = 81 | ZAG
+Richard Kingson = 80 | GOL
+
+@CIV
+Didier Drogba = 90 L | CA
+Yaya Touré = 83 | MC
+Kolo Touré = 84 | ZAG
+Didier Zokora = 82 | VOL
+Emmanuel Eboué = 81 | LD
+Arouna Koné = 80 | CA
+Bonaventure Kalou = 80 | PE
+
+@SWE
+Zlatan Ibrahimović = 86 | CA
+Henrik Larsson = 85 | CA
+Freddie Ljungberg = 84 | ME
+Olof Mellberg = 83 | ZAG
+Andreas Isaksson = 81 | GOL
+Kim Källström = 81 | MC
+Tobias Linderoth = 80 | VOL
+Christian Wilhelmsson = 80 | PD
+
+@MEX
+Rafael Márquez = 88 | ZAG VOL
+Pável Pardo = 83 | MC
+Oswaldo Sánchez = 83 | GOL
+Carlos Salcido = 82 | LE ZAG
+Jared Borgetti = 81 | CA
+Omar Bravo = 81 | CA
+Gerardo Torrado = 81 | VOL
+Ricardo Osorio = 80 | ZAG
+
+@AUS
+Tim Cahill = 83 | MEI CA
+Harry Kewell = 83 | PE MEI
+Mark Viduka = 82 | CA
+Mark Schwarzer = 82 | GOL
+Lucas Neill = 81 | ZAG
+Brett Emerton = 80 | MD
+Mark Bresciano = 80 | MC
+
+@SUI
+Alexander Frei = 83 | CA
+Johann Vogel = 81 | VOL
+Tranquillo Barnetta = 81 | MD
+Patrick Müller = 80 | ZAG
+Philippe Senderos = 80 | ZAG
+
+@ECU
+Antonio Valencia = 82 | MD PD
+Edison Méndez = 81 | ME
+Agustín Delgado = 80 | CA
+Iván Hurtado = 80 | ZAG
+Ulises de la Cruz = 80 | LD
+
+@PAR
+Roque Santa Cruz = 82 | CA
+Carlos Gamarra = 82 | ZAG
+Justo Villar = 81 | GOL
+Roberto Acuña = 80 | MC
+
+@CRO
+Darijo Srna = 83 | MD LD
+Niko Kranjčar = 82 | MEI
+Stipe Pletikosa = 81 | GOL
+Robert Kovač = 81 | ZAG
+Niko Kovač = 81 | VOL
+Josip Šimunić = 80 | ZAG
+Dario Šimić = 80 | ZAG
+
+@POL
+Artur Boruc = 81 | GOL
+Jacek Krzynówek = 80 | ME
+Maciej Żurawski = 80 | CA
+
+@KOR
+Park Ji-sung = 85 | PD MC
+Lee Young-pyo = 82 | LE
+Lee Woon-jae = 81 | GOL
+Lee Chun-soo = 80 | MEI
+
+@JPN
+Hidetoshi Nakata = 83 | MC
+Shunsuke Nakamura = 83 | MEI
+Yoshikatsu Kawaguchi = 80 | GOL
+
+@USA
+Landon Donovan = 83 | MEI
+Kasey Keller = 82 | GOL
+Claudio Reyna = 80 | MC
+Oguchi Onyewu = 80 | ZAG
+DaMarcus Beasley = 80 | ME
+Clint Dempsey = 80 | MD
+
+@SCG
+Dejan Stanković = 84 | MC
+Mateja Kežman = 81 | CA
+Savo Milošević = 80 | CA
+Nemanja Vidić = 83 | ZAG
+
+@IRN
+Ali Karimi = 82 | MEI
+Mehdi Mahdavikia = 80 | MD
+Javad Nekounam = 80 | MC
+Ali Daei = 79 | CA
+
+@TOG
+Emmanuel Adebayor = 84 | CA
+
+@TUN
+Radhi Jaïdi = 80 | ZAG
+
+@KSA
+Yasser Al-Qahtani = 80 | CA
+
+@TRI
+Dwight Yorke = 81 | MEI
+Shaka Hislop = 79 | GOL
+
+@CRC
+Paulo Wanchope = 81 | CA
+
+@ANG
+Akwá = 78 | CA

@@ -1,0 +1,216 @@
+# Copa de 1982 — Espanha (Paolo Rossi, e o Brasil de Telê)
+
+@ITA
+Paolo Rossi = 94 L | CA
+Dino Zoff = 91 L | GOL
+Gaetano Scirea = 91 L | ZAG
+Bruno Conti = 89 | PD
+Claudio Gentile = 88 | ZAG LD
+Marco Tardelli = 88 | MC
+Antonio Cabrini = 87 | LE
+Giancarlo Antognoni = 87 | MEI
+Fulvio Collovati = 85 | ZAG
+Alessandro Altobelli = 84 | CA
+Francesco Graziani = 83 | CA PE
+Gabriele Oriali = 83 | VOL
+Franco Baresi = 83 | ZAG
+Giuseppe Bergomi = 82 | LD ZAG
+Giampiero Marini = 80 | MC
+
+@FRG
+Karl-Heinz Rummenigge = 92 L | CA PD
+Paul Breitner = 89 L | MC
+Harald Schumacher = 88 | GOL
+Pierre Littbarski = 86 | PE
+Manfred Kaltz = 86 | LD
+Hans-Peter Briegel = 86 | LE ME
+Karlheinz Förster = 86 | ZAG
+Uli Stielike = 86 | ZAG VOL
+Klaus Fischer = 85 | CA
+Felix Magath = 84 | MC
+Horst Hrubesch = 83 | CA
+Hansi Müller = 82 | MC
+Wolfgang Dremmler = 81 | VOL MD
+Bernd Förster = 81 | ZAG LE
+
+@POL
+Zbigniew Boniek = 91 L | PE MEI
+Grzegorz Lato = 86 | PD
+Józef Młynarczyk = 85 | GOL
+Władysław Żmuda = 85 | ZAG
+Andrzej Buncol = 83 | MC
+Włodzimierz Smolarek = 82 | CA PD
+Paweł Janas = 82 | ZAG
+Stefan Majewski = 81 | ZAG
+Waldemar Matysik = 81 | MC
+Andrzej Szarmach = 81 | CA
+Janusz Kupcewicz = 80 | MEI
+
+@FRA
+Michel Platini = 93 L | MEI
+Alain Giresse = 88 | MC MEI
+Jean Tigana = 88 | MC
+Marius Trésor = 86 | ZAG
+Maxime Bossis = 86 | ZAG LE
+Dominique Rocheteau = 85 | PD
+Didier Six = 83 | PE
+Bernard Genghini = 83 | MC
+Manuel Amoros = 83 | LD
+Patrick Battiston = 82 | ZAG LD
+Gérard Soler = 80 | CA
+Gérard Janvion = 80 | ZAG
+Jean-Luc Ettori = 79 | GOL
+
+@BRA +3
+Zico = 95 L | MEI
+Sócrates = 93 L | MEI MC
+Falcão = 92 L | VOL MC
+Júnior = 90 L | LE MC
+Éder = 88 | PE
+Toninho Cerezo = 88 | VOL MC
+Leandro = 86 | LD
+Oscar = 85 | ZAG
+Luizinho = 84 | ZAG
+Dirceu = 81 | MEI
+Serginho = 80 | CA
+Waldir Peres = 79 | GOL
+
+@ARG +2
+Diego Maradona = 90 L | MEI CA
+Daniel Passarella = 89 L | ZAG
+Ubaldo Fillol = 88 | GOL
+Mario Kempes = 86 | CA MEI
+Osvaldo Ardiles = 86 | MC
+Daniel Bertoni = 84 | PD
+Ramón Díaz = 83 | CA
+Américo Gallego = 83 | VOL
+Jorge Valdano = 82 | CA
+Alberto Tarantini = 82 | LE
+Jorge Olguín = 81 | LD
+
+@ENG
+Bryan Robson = 88 | MC
+Peter Shilton = 88 | GOL
+Kevin Keegan = 87 | CA
+Trevor Francis = 85 | CA
+Glenn Hoddle = 85 | MEI
+Ray Wilkins = 84 | MC
+Terry Butcher = 83 | ZAG
+Kenny Sansom = 83 | LE
+Paul Mariner = 82 | CA
+Phil Thompson = 82 | ZAG
+Steve Coppell = 82 | PD
+Mick Mills = 81 | LD
+Tony Woodcock = 81 | CA
+
+@URS
+Rinat Dasayev = 89 L | GOL
+Oleg Blokhin = 88 | CA PE
+Aleksandr Chivadze = 84 | ZAG
+Anatoliy Demyanenko = 84 | LE
+Volodymyr Bessonov = 84 | LD
+Ramaz Shengelia = 82 | CA
+Yuri Gavrilov = 82 | MC
+Sergei Baltacha = 82 | ZAG
+Khoren Hovhannisyan = 81 | MC
+
+@BEL
+Jean-Marie Pfaff = 86 | GOL
+Jan Ceulemans = 86 | MEI CA
+Eric Gerets = 85 | LD
+Erwin Vandenbergh = 84 | CA
+Franky Vercauteren = 83 | PE
+Ludo Coeck = 82 | MC
+Walter Meeuws = 81 | ZAG
+Michel Renquin = 80 | LE
+Luc Millecamps = 80 | ZAG
+
+@AUT
+Herbert Prohaska = 86 | MC
+Bruno Pezzey = 85 | ZAG
+Hans Krankl = 84 | CA
+Walter Schachner = 83 | CA
+Friedrich Koncilia = 82 | GOL
+
+@ESP
+Luis Arconada = 86 | GOL
+José Antonio Camacho = 84 | LE ZAG
+Rafael Gordillo = 83 | LE ME
+Juanito = 82 | PD CA
+Santillana = 82 | CA
+Quini = 82 | CA
+Jesús María Zamora = 82 | MC ME
+José Ramón Alexanko = 81 | ZAG
+Periko Alonso = 80 | MC
+
+@SCO
+Graeme Souness = 87 | MC
+Kenny Dalglish = 86 | CA
+Alan Hansen = 85 | ZAG
+Gordon Strachan = 84 | MC MD
+John Wark = 83 | MC
+John Robertson = 82 | PE
+Willie Miller = 82 | ZAG
+Danny McGrain = 81 | LD
+Steve Archibald = 81 | CA
+Joe Jordan = 80 | CA
+
+@YUG
+Safet Sušić = 86 | MEI
+Vladimir Petrović = 83 | MC
+Zlatko Vujović = 82 | CA
+Ivica Šurjak = 82 | MC PE
+Velimir Zajec = 81 | ZAG
+
+@CMR
+Thomas N'Kono = 86 | GOL
+Roger Milla = 84 | CA
+Théophile Abega = 81 | MC
+Emmanuel Kundé = 80 | ZAG
+
+@ALG +2
+Lakhdar Belloumi = 86 | MEI
+Rabah Madjer = 85 | CA
+Salah Assad = 84 | PE CA
+Mahmoud Guendouz = 80 | ZAG
+Mehdi Cerbah = 79 | GOL
+
+@PER
+Teófilo Cubillas = 84 | MEI
+César Cueto = 83 | MC
+Julio César Uribe = 82 | MEI
+Juan Carlos Oblitas = 81 | PE
+José Velásquez = 80 | VOL
+
+@NIR
+Pat Jennings = 87 | GOL
+Gerry Armstrong = 82 | CA
+Martin O'Neill = 82 | MC
+Sammy McIlroy = 81 | MC
+Norman Whiteside = 80 | CA MC
+Billy Hamilton = 80 | CA
+
+@TCH
+Antonín Panenka = 83 | MEI
+Zdeněk Nehoda = 81 | CA
+Ladislav Vízek = 81 | PD CA
+Jan Fiala = 80 | ZAG
+
+@HUN
+Tibor Nyilasi = 83 | MC
+Imre Garaba = 80 | ZAG
+László Kiss = 80 | CA
+
+@CHI -1
+Elías Figueroa = 82 | ZAG
+Carlos Caszely = 81 | CA
+
+@HON -1
+Gilberto Yearwood = 78 | MC
+
+@KUW -3
+
+@NZL -3
+Wynton Rufer = 77 | CA
+
+@SLV -5

@@ -1,0 +1,95 @@
+# Copa de 1950 — Brasil (quadrangular final, o Maracanazo)
+
+@URU
+Juan Alberto Schiaffino = 93 L | MEI CA
+Obdulio Varela = 92 L | VOL ZAG
+Alcides Ghiggia = 90 L | PD
+Oscar Míguez = 88 | CA
+Víctor Rodríguez Andrade = 88 | VOL LE
+Roque Máspoli = 87 | GOL
+Matías González = 85 | ZAG
+Julio Pérez = 84 | MEI
+Eusebio Tejera = 83 | ZAG LD
+Schubert Gambetta = 82 | VOL LD
+Ernesto Vidal = 80 | PE
+
+@BRA
+Zizinho = 94 L | MEI
+Ademir = 93 L | CA MEI
+Jair = 88 | MEI PE
+Bauer = 86 | VOL
+Danilo = 85 | VOL MC
+Barbosa = 84 | GOL
+Chico = 83 | PE
+Nílton Santos = 82 | LE ZAG
+Augusto = 81 | ZAG LD
+Baltazar = 81 | CA
+Friaça = 80 | PD
+Juvenal = 80 | ZAG
+Bigode = 79 | ZAG LE
+Maneca = 79 | MEI PD
+
+@ESP
+Telmo Zarra = 90 L | CA
+Antoni Ramallets = 86 | GOL
+Estanislau Basora = 86 | PD
+Agustín Gaínza = 84 | PE
+Antonio Puchades = 84 | VOL
+Silvestre Igoa = 82 | MEI
+José Luis Panizo = 82 | MEI
+Gabriel Alonso = 81 | ZAG LD
+José Parra = 79 | ZAG
+
+@SWE
+Kalle Svensson = 85 | GOL
+Lennart Skoglund = 84 | PE MEI
+Hasse Jeppson = 84 | CA
+Karl-Erik Palmér = 84 | MEI
+Sune Andersson = 83 | VOL
+Erik Nilsson = 83 | ZAG LE
+Lennart Samuelsson = 80 | ZAG LD
+
+@ENG
+Tom Finney = 90 L | PD PE
+Stanley Matthews = 90 L | PD
+Billy Wright = 88 | ZAG VOL
+Stan Mortensen = 86 | CA MEI
+Alf Ramsey = 84 | LD ZAG
+Wilf Mannion = 84 | MEI
+Jackie Milburn = 84 | CA
+Bert Williams = 83 | GOL
+Jimmy Dickinson = 82 | VOL
+
+@ITA
+Giampiero Boniperti = 85 | MEI CA
+Carlo Parola = 82 | ZAG VOL
+Riccardo Carapellese = 80 | PE
+Ermes Muccinelli = 79 | PD
+Lucidio Sentimenti = 78 | GOL
+
+@YUG
+Stjepan Bobek = 86 | MEI CA
+Bernard Vukas = 86 | PE MEI
+Rajko Mitić = 85 | MEI
+Zlatko Čajkovski = 85 | VOL
+Ivica Horvat = 81 | ZAG
+Branko Stanković = 81 | ZAG LE
+
+@CHI
+George Robledo = 84 | CA
+Sergio Livingstone = 80 | GOL
+
+@USA
+Joe Gaetjens = 78 | CA
+Walter Bahr = 76 | VOL
+Frank Borghi = 76 | GOL
+
+@SUI
+Alfred Bickel = 80 | PD MEI
+Charles Antenen = 80 | MEI
+Jacques Fatton = 79 | PE CA
+
+@MEX
+Antonio Carbajal = 80 | GOL
+
+@BOL -3

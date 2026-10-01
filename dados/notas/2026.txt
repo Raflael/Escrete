@@ -1,0 +1,312 @@
+# Copa de 2026 — EUA, México e Canadá (48 seleções)
+# ATENÇÃO: avaliações pelo nível dos jogadores até meados de 2026 + fatos do torneio (Wikipédia).
+# É a Copa que mais precisa de revisão humana.
+
+@ESP
+Lamine Yamal = 94 L | PD PE
+Rodri = 90 | VOL
+Pedri = 89 | MC
+Dani Olmo = 86 | MEI MC
+Mikel Oyarzabal = 86 | CA
+Unai Simón = 86 | GOL
+Aymeric Laporte = 85 | ZAG
+Pau Cubarsí = 85 | ZAG
+Marc Cucurella = 84 | LE
+Fabián Ruiz = 85 | MC
+Álex Baena = 83 | PE MEI
+Pedro Porro = 83 | LD
+Ferran Torres = 82 | CA
+Marcos Llorente = 82 | LD MC
+
+@ARG
+Lionel Messi = 91 L | CA MEI
+Julián Alvarez = 88 | CA
+Alexis Mac Allister = 87 | MC
+Enzo Fernández = 86 | MC
+Emiliano Martínez = 87 | GOL
+Cristian Romero = 86 | ZAG
+Rodrigo De Paul = 84 | MC MD
+Lautaro Martínez = 87 | CA
+Lisandro Martínez = 83 | ZAG
+Nicolás Tagliafico = 81 | LE
+Nahuel Molina = 81 | LD
+Leandro Paredes = 81 | VOL
+Thiago Almada = 81 | MEI
+
+@FRA
+Kylian Mbappé = 95 L | CA PE
+Ousmane Dembélé = 91 | PD CA
+Michael Olise = 88 | MEI PD
+William Saliba = 88 | ZAG
+Mike Maignan = 87 | GOL
+Désiré Doué = 85 | PE MEI
+Jules Koundé = 85 | LD ZAG
+Aurélien Tchouaméni = 85 | VOL
+Dayot Upamecano = 84 | ZAG
+Adrien Rabiot = 83 | MC
+Bradley Barcola = 83 | PE
+Manu Koné = 83 | MC
+Théo Hernandez = 82 | LE
+Lucas Digne = 80 | LE
+
+@ENG
+Harry Kane = 91 | CA
+Jude Bellingham = 89 | MEI MC
+Declan Rice = 88 | MC
+Bukayo Saka = 87 | PD
+Jordan Pickford = 84 | GOL
+Marc Guéhi = 84 | ZAG
+John Stones = 83 | ZAG
+Anthony Gordon = 83 | PE
+Morgan Rogers = 83 | MEI
+Elliot Anderson = 82 | MC
+Ezri Konsa = 82 | ZAG
+Reece James = 83 | LD
+Marcus Rashford = 81 | PE
+Noni Madueke = 80 | PD
+
+@SUI
+Granit Xhaka = 84 | MC
+Manuel Akanji = 84 | ZAG
+Gregor Kobel = 85 | GOL
+Breel Embolo = 81 | CA
+Dan Ndoye = 81 | PE
+Remo Freuler = 80 | VOL
+Denis Zakaria = 80 | VOL
+
+@MAR
+Achraf Hakimi = 90 | LD
+Brahim Díaz = 85 | MEI PD
+Yassine Bounou = 85 | GOL
+Noussair Mazraoui = 82 | LE
+Neil El Aynaoui = 81 | MC
+Bilal El Khannouss = 81 | MEI
+Azzedine Ounahi = 81 | MC
+Ismael Saibari = 81 | CA
+
+@BEL
+Kevin De Bruyne = 86 | MEI
+Thibaut Courtois = 90 | GOL
+Jérémy Doku = 84 | PE
+Leandro Trossard = 83 | PE CA
+Youri Tielemans = 82 | MC
+Charles De Ketelaere = 82 | CA
+Amadou Onana = 82 | VOL
+Timothy Castagne = 80 | LD
+
+@NOR
+Erling Haaland = 94 L | CA
+Martin Ødegaard = 88 | MEI
+Alexander Sørloth = 84 | CA
+Sander Berge = 81 | VOL
+Antonio Nusa = 81 | PE
+Kristoffer Ajer = 80 | ZAG
+Julian Ryerson = 80 | LD
+Patrick Berg = 80 | MC
+
+@BRA
+Vinícius Júnior = 91 | PE
+Raphinha = 89 | PD CA
+Alisson = 88 | GOL
+Marquinhos = 86 | ZAG
+Gabriel Magalhães = 86 | ZAG
+Bruno Guimarães = 86 | MC
+Casemiro = 82 | VOL
+Lucas Paquetá = 82 | MEI
+Matheus Cunha = 83 | CA MEI
+Danilo Luiz = 79 | LD
+Douglas Santos = 79 | LE
+Rayan = 78 | PD
+Endrick = 80 | CA
+
+@MEX
+Edson Álvarez = 82 | VOL ZAG
+Raúl Jiménez = 81 | CA
+Johan Vásquez = 81 | ZAG
+Julián Quiñones = 80 | PD CA
+Roberto Alvarado = 80 | PD
+César Montes = 79 | ZAG
+Gilberto Mora = 78 | MEI
+Santiago Giménez = 81 | CA
+
+@CAN
+Alphonso Davies = 86 | LE
+Jonathan David = 85 | CA
+Stephen Eustáquio = 80 | MC
+Tajon Buchanan = 80 | PD
+Alistair Johnston = 80 | LD
+Ismaël Koné = 79 | MC
+
+@POR
+Cristiano Ronaldo = 85 | CA
+Bruno Fernandes = 87 | MEI
+Vitinha = 89 | MC
+João Neves = 87 | MC
+Nuno Mendes = 88 | LE
+Rúben Dias = 86 | ZAG
+Diogo Costa = 85 | GOL
+João Cancelo = 82 | LD
+Pedro Neto = 82 | PD
+Renato Veiga = 80 | ZAG
+João Félix = 80 | MEI
+
+@COL
+Luis Díaz = 88 | PE
+James Rodríguez = 82 | MEI
+Davinson Sánchez = 81 | ZAG
+Jhon Lucumí = 82 | ZAG
+Jhon Arias = 81 | MEI
+Daniel Muñoz = 82 | LD
+Jefferson Lerma = 80 | VOL
+Camilo Vargas = 80 | GOL
+
+@USA
+Christian Pulisic = 85 | PE
+Weston McKennie = 81 | MC
+Tyler Adams = 80 | VOL
+Antonee Robinson = 81 | LE
+Chris Richards = 80 | ZAG
+Folarin Balogun = 80 | CA
+Malik Tillman = 80 | MEI
+
+@EGY
+Mohamed Salah = 90 | PD
+Omar Marmoush = 84 | CA PE
+Mostafa Shobeir = 76 | GOL
+
+@PAR
+Miguel Almirón = 80 | ME
+Julio Enciso = 80 | CA
+Gustavo Gómez = 80 | ZAG
+Omar Alderete = 79 | ZAG
+
+@GER
+Florian Wirtz = 88 | MEI PE
+Jamal Musiala = 88 | MEI
+Joshua Kimmich = 87 | MC LD
+Kai Havertz = 83 | CA
+Leroy Sané = 82 | PD
+Jonathan Tah = 83 | ZAG
+Manuel Neuer = 82 | GOL
+Nico Schlotterbeck = 82 | ZAG
+Aleksandar Pavlović = 81 | VOL
+Felix Nmecha = 80 | MC
+Nathaniel Brown = 79 | LE
+
+@NED
+Virgil van Dijk = 87 | ZAG
+Cody Gakpo = 85 | PE
+Frenkie de Jong = 86 | MC
+Ryan Gravenberch = 85 | MC
+Micky van de Ven = 83 | ZAG
+Tijjani Reijnders = 85 | MC
+Denzel Dumfries = 82 | LD
+Bart Verbruggen = 82 | GOL
+Memphis Depay = 80 | CA
+
+@CRO
+Luka Modrić = 85 | MC
+Joško Gvardiol = 86 | ZAG LE
+Mateo Kovačić = 83 | MC
+Andrej Kramarić = 80 | CA
+Dominik Livaković = 81 | GOL
+Ivan Perišić = 79 | PE
+
+@URU
+Federico Valverde = 88 | MC
+Darwin Núñez = 82 | CA
+Ronald Araújo = 83 | ZAG
+Rodrigo Bentancur = 81 | MC
+José María Giménez = 81 | ZAG
+Manuel Ugarte = 81 | VOL
+
+@SEN
+Sadio Mané = 82 | PE
+Nicolas Jackson = 82 | CA
+Pape Matar Sarr = 81 | MC
+Kalidou Koulibaly = 80 | ZAG
+Ismaïla Sarr = 81 | PD
+Édouard Mendy = 80 | GOL
+Iliman Ndiaye = 80 | PE
+
+@JPN
+Takefusa Kubo = 84 | PD
+Daichi Kamada = 80 | MEI
+Ayase Ueda = 80 | CA
+Ritsu Dōan = 80 | PD
+Zion Suzuki = 79 | GOL
+
+@KOR
+Son Heung-min = 84 | CA PE
+Kim Min-jae = 85 | ZAG
+Lee Kang-in = 83 | MEI
+Hwang In-beom = 80 | MC
+
+@CIV
+Franck Kessié = 81 | MC
+Amad Diallo = 83 | PD
+Simon Adingra = 79 | PE
+Evan Ndicka = 80 | ZAG
+
+@ECU
+Moisés Caicedo = 88 | VOL MC
+Willian Pacho = 85 | ZAG
+Piero Hincapié = 84 | ZAG LE
+Pervis Estupiñán = 81 | LE
+Enner Valencia = 78 | CA
+
+@TUR
+Arda Güler = 85 | MEI PD
+Kenan Yıldız = 84 | PE
+Hakan Çalhanoğlu = 84 | MC
+Ferdi Kadıoğlu = 80 | LE
+Uğurcan Çakır = 80 | GOL
+
+@SCO
+Scott McTominay = 85 | MC MEI
+Andy Robertson = 80 | LE
+John McGinn = 80 | MC
+
+@AUT
+Marcel Sabitzer = 81 | MC
+Konrad Laimer = 81 | MC
+David Alaba = 80 | ZAG
+
+@SWE
+Alexander Isak = 87 | CA
+Viktor Gyökeres = 87 | CA
+
+@ALG
+Riyad Mahrez = 81 | PD
+Rayan Aït-Nouri = 81 | LE
+
+
+@GHA
+Thomas Partey = 80 | VOL
+
+@COD
+Chancel Mbemba = 79 | ZAG
+
+@BIH
+Edin Džeko = 78 | CA
+
+@IRN
+Mehdi Taremi = 80 | CA
+
+@KSA
+Salem Al-Dawsari = 79 | PE
+
+@CZE
+Patrik Schick = 80 | CA
+
+@AUS
+Harry Souttar = 77 | ZAG
+
+@UZB -1
+@JOR -1
+@IRQ -2
+@HAI -2
+@CUW -2
+@NZL -2
+@PAN -1
+@QAT -2

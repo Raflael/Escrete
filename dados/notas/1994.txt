@@ -1,0 +1,245 @@
+# Copa de 1994 — Estados Unidos (o tetra, Romário e Bebeto)
+
+@BRA
+Romário = 96 L | CA
+Bebeto = 89 | CA
+Dunga = 87 | VOL
+Cláudio Taffarel = 87 | GOL
+Aldair = 86 | ZAG
+Jorginho = 86 | LD
+Leonardo = 86 | LE MEI
+Mauro Silva = 86 | VOL
+Raí = 85 | MEI
+Cafu = 85 | LD LE
+Márcio Santos = 84 | ZAG
+Branco = 84 | LE
+Zinho = 84 | ME MEI
+Mazinho = 83 | MC MD
+Ricardo Rocha = 82 | ZAG
+Ronaldo = 82 | CA
+
+@ITA
+Roberto Baggio = 95 L | MEI CA
+Paolo Maldini = 92 L | LE ZAG
+Franco Baresi = 92 L | ZAG
+Alessandro Costacurta = 87 | ZAG
+Demetrio Albertini = 86 | MC
+Gianluca Pagliuca = 86 | GOL
+Giuseppe Signori = 86 | CA PE
+Dino Baggio = 85 | MC
+Roberto Donadoni = 85 | MD
+Gianfranco Zola = 85 | MEI
+Mauro Tassotti = 83 | LD
+Antonio Benarrivo = 82 | LD LE
+Daniele Massaro = 82 | CA
+Nicola Berti = 81 | MC
+Pierluigi Casiraghi = 81 | CA
+Antonio Conte = 81 | MC
+
+@SWE
+Tomas Brolin = 88 | MEI CA
+Kennet Andersson = 86 | CA
+Martin Dahlin = 86 | CA
+Thomas Ravelli = 85 | GOL
+Patrik Andersson = 85 | ZAG
+Roland Nilsson = 84 | LD
+Stefan Schwarz = 84 | MC
+Henrik Larsson = 84 | CA MD
+Jonas Thern = 83 | MC
+Klas Ingesson = 81 | MC
+Joachim Björklund = 81 | ZAG
+Roger Ljung = 80 | LE
+
+@BUL
+Hristo Stoichkov = 94 L | CA PE
+Krasimir Balakov = 87 | MEI
+Yordan Letchkov = 86 | MC
+Emil Kostadinov = 85 | CA PD
+Borislav Mihaylov = 84 | GOL
+Trifon Ivanov = 84 | ZAG
+Nasko Sirakov = 82 | CA
+Zlatko Yankov = 82 | VOL
+Petar Hubchev = 80 | ZAG
+Tsanko Tsvetanov = 80 | LE
+
+@ROU
+Gheorghe Hagi = 93 L | MEI
+Gheorghe Popescu = 86 | ZAG VOL
+Dan Petrescu = 85 | LD MD
+Ilie Dumitrescu = 85 | CA MEI
+Florin Răducioiu = 84 | CA
+Miodrag Belodedici = 83 | ZAG
+Dorinel Munteanu = 82 | ME
+Ioan Lupescu = 82 | MC
+Bogdan Stelea = 81 | GOL
+Daniel Prodan = 81 | ZAG
+
+@GER
+Jürgen Klinsmann = 89 | CA
+Lothar Matthäus = 88 | ZAG MC
+Matthias Sammer = 87 | ZAG VOL
+Thomas Häßler = 86 | MEI
+Jürgen Kohler = 85 | ZAG
+Andreas Möller = 85 | MEI
+Stefan Effenberg = 84 | MC
+Rudi Völler = 84 | CA
+Bodo Illgner = 84 | GOL
+Andreas Brehme = 83 | LE
+Guido Buchwald = 83 | ZAG
+Thomas Helmer = 83 | ZAG
+Karl-Heinz Riedle = 82 | CA
+Thomas Berthold = 81 | LD
+
+@NED
+Dennis Bergkamp = 90 L | CA MEI
+Frank Rijkaard = 87 | VOL
+Ronald Koeman = 86 | ZAG
+Marc Overmars = 86 | PD PE
+Frank de Boer = 85 | ZAG LE
+Wim Jonk = 84 | MC
+Ronald de Boer = 83 | MC PD
+Ed de Goey = 82 | GOL
+Jan Wouters = 82 | VOL
+Aron Winter = 82 | MD
+Bryan Roy = 81 | PE
+
+@ESP
+Fernando Hierro = 87 | ZAG VOL
+Josep Guardiola = 85 | VOL
+Luis Enrique = 85 | ME CA
+Andoni Zubizarreta = 85 | GOL
+José Luis Caminero = 84 | MEI
+Jon Andoni Goikoetxea = 82 | MD
+Sergi Barjuán = 82 | LE
+Abelardo Fernández = 82 | ZAG
+Julen Guerrero = 82 | MEI
+Albert Ferrer = 81 | LD
+Rafael Alkorta = 81 | ZAG
+Miguel Ángel Nadal = 81 | ZAG VOL
+José María Bakero = 81 | MEI
+Julio Salinas = 81 | CA
+
+@ARG
+Gabriel Batistuta = 91 L | CA
+Diego Maradona = 90 L | MEI
+Fernando Redondo = 88 | VOL MC
+Claudio Caniggia = 85 | CA PD
+Diego Simeone = 85 | MC
+Oscar Ruggeri = 83 | ZAG
+Abel Balbo = 83 | CA
+Ariel Ortega = 83 | MEI
+Roberto Sensini = 82 | ZAG LD
+José Chamot = 81 | LE
+Luis Islas = 80 | GOL
+
+@NGA +2
+Jay-Jay Okocha = 86 | MEI
+Rashidi Yekini = 85 | CA
+Finidi George = 85 | PD
+Daniel Amokachi = 84 | CA
+Sunday Oliseh = 84 | VOL
+Emmanuel Amunike = 84 | PE
+Stephen Keshi = 81 | ZAG
+Peter Rufai = 81 | GOL
+Uche Okechukwu = 81 | ZAG
+
+@COL +2
+Carlos Valderrama = 88 | MEI
+Faustino Asprilla = 86 | CA
+Freddy Rincón = 85 | MEI
+Andrés Escobar = 82 | ZAG
+Leonel Álvarez = 82 | VOL
+Óscar Córdoba = 81 | GOL
+Adolfo Valencia = 80 | CA
+
+@BEL
+Michel Preud'homme = 90 L | GOL
+Enzo Scifo = 86 | MEI
+Marc Wilmots = 83 | MEI
+Philippe Albert = 83 | ZAG
+Franky Van der Elst = 82 | VOL
+Luc Nilis = 82 | CA
+Marc Degryse = 82 | CA MEI
+Georges Grün = 81 | ZAG
+Lorenzo Staelens = 81 | ZAG MC
+Josip Weber = 80 | CA
+
+@IRL
+Roy Keane = 87 | MC
+Paul McGrath = 85 | ZAG
+Denis Irwin = 84 | LD
+Andy Townsend = 82 | MC
+Steve Staunton = 82 | LE
+Packie Bonner = 82 | GOL
+Ray Houghton = 81 | MD
+John Aldridge = 81 | CA
+Phil Babb = 80 | ZAG
+
+@MEX
+Jorge Campos = 85 | GOL
+Luis García = 83 | CA
+Claudio Suárez = 82 | ZAG
+Alberto García Aspe = 82 | MC
+Hugo Sánchez = 82 | CA
+Ramón Ramírez = 81 | LE
+Zague = 80 | PE
+
+@SUI
+Stéphane Chapuisat = 85 | CA
+Ciriaco Sforza = 83 | MC
+Alain Geiger = 81 | ZAG
+Alain Sutter = 81 | ME
+Adrian Knup = 80 | CA
+Marc Hottiger = 80 | LD
+
+@USA
+Alexi Lalas = 80 | ZAG
+Tab Ramos = 80 | MC
+Eric Wynalda = 80 | CA
+Tony Meola = 80 | GOL
+Marcelo Balboa = 80 | ZAG
+Thomas Dooley = 80 | VOL
+Cobi Jones = 79 | MD
+
+@KSA
+Saeed Al-Owairan = 83 | MC CA
+Mohamed Al-Deayea = 82 | GOL
+Sami Al-Jaber = 81 | CA
+Fuad Anwar = 80 | MC
+Majed Abdullah = 80 | CA
+
+@RUS
+Oleg Salenko = 83 | CA
+Viktor Onopko = 82 | ZAG
+Aleksandr Mostovoi = 82 | MEI
+Valeri Karpin = 81 | MC
+Dmitri Kharine = 80 | GOL
+Ilya Tsymbalar = 80 | MC
+
+@KOR
+Hong Myung-bo = 83 | ZAG
+Hwang Sun-hong = 79 | CA
+Seo Jung-won = 78 | PD
+Ko Jeong-woon = 78 | PD
+
+@NOR
+Rune Bratseth = 81 | ZAG
+Henning Berg = 81 | ZAG
+Erik Thorstvedt = 80 | GOL
+Stig Inge Bjørnebye = 80 | LE
+Øyvind Leonhardsen = 80 | MC
+
+@MAR
+Noureddine Naybet = 82 | ZAG
+Mustapha Hadji = 80 | MC
+
+@BOL
+Erwin Sánchez = 80 | MEI
+
+@CMR -1
+Roger Milla = 82 | CA
+Marc-Vivien Foé = 80 | MC
+François Omam-Biyik = 80 | CA
+Rigobert Song = 79 | ZAG
+
+@GRE -3

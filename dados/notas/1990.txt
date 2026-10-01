@@ -1,0 +1,224 @@
+# Copa de 1990 — Itália (Schillaci, Milla e o tri alemão)
+
+@FRG
+Lothar Matthäus = 94 L | MC
+Andreas Brehme = 88 | LE
+Jürgen Klinsmann = 88 | CA
+Rudi Völler = 88 | CA
+Jürgen Kohler = 87 | ZAG
+Guido Buchwald = 86 | ZAG VOL
+Thomas Häßler = 86 | MC MEI
+Bodo Illgner = 86 | GOL
+Klaus Augenthaler = 85 | ZAG
+Pierre Littbarski = 84 | PD MEI
+Thomas Berthold = 83 | LD
+Andreas Möller = 83 | MEI
+Stefan Reuter = 82 | LD MD
+Karl-Heinz Riedle = 82 | CA
+Olaf Thon = 82 | MC
+Uwe Bein = 82 | MEI
+
+@ARG
+Diego Maradona = 95 L | MEI CA
+Claudio Caniggia = 88 | CA PD
+Sergio Goycochea = 86 | GOL
+Oscar Ruggeri = 86 | ZAG
+Jorge Burruchaga = 84 | MEI MC
+Juan Simón = 82 | ZAG
+Roberto Sensini = 82 | LE ZAG
+Nery Pumpido = 82 | GOL
+José Basualdo = 81 | MC LD
+Ricardo Giusti = 81 | VOL
+Sergio Batista = 81 | VOL
+Abel Balbo = 81 | CA
+Pedro Troglio = 80 | MC
+
+@ITA
+Franco Baresi = 93 L | ZAG
+Roberto Baggio = 91 L | MEI CA
+Paolo Maldini = 91 L | LE ZAG
+Salvatore Schillaci = 89 | CA
+Walter Zenga = 88 | GOL
+Giuseppe Bergomi = 87 | ZAG LD
+Roberto Donadoni = 86 | MD
+Gianluca Vialli = 86 | CA
+Giuseppe Giannini = 85 | MC MEI
+Riccardo Ferri = 84 | ZAG
+Carlo Ancelotti = 84 | MC
+Pietro Vierchowod = 84 | ZAG
+Fernando De Napoli = 83 | MC
+Nicola Berti = 82 | MC
+Ciro Ferrara = 82 | ZAG
+Luigi De Agostini = 81 | LE
+
+@ENG
+Gary Lineker = 89 L | CA
+Paul Gascoigne = 89 | MEI MC
+Peter Shilton = 85 | GOL
+Des Walker = 85 | ZAG
+Stuart Pearce = 85 | LE
+Chris Waddle = 85 | PD MEI
+David Platt = 85 | MC
+John Barnes = 85 | PE
+Bryan Robson = 84 | MC
+Peter Beardsley = 84 | CA
+Mark Wright = 83 | ZAG
+Terry Butcher = 82 | ZAG
+Paul Parker = 81 | LD
+
+@NED +3
+Marco van Basten = 93 L | CA
+Ruud Gullit = 92 L | MC MEI
+Frank Rijkaard = 92 L | VOL ZAG
+Ronald Koeman = 88 | ZAG
+Hans van Breukelen = 85 | GOL
+Jan Wouters = 84 | VOL
+Aron Winter = 81 | MC
+Adri van Tiggelen = 81 | LE
+Berry van Aerle = 80 | LD
+
+@YUG +2
+Dragan Stojković = 88 | MEI
+Dejan Savićević = 86 | MEI PD
+Robert Prosinečki = 85 | MC
+Safet Sušić = 84 | MEI
+Darko Pančev = 83 | CA
+Zlatko Vujović = 82 | CA
+Faruk Hadžibegić = 82 | ZAG
+Srečko Katanec = 82 | VOL
+Davor Jozić = 81 | ZAG
+Tomislav Ivković = 81 | GOL
+
+@BRA
+Careca = 88 | CA
+Romário = 86 | CA
+Cláudio Taffarel = 85 | GOL
+Dunga = 85 | VOL
+Branco = 84 | LE
+Jorginho = 84 | LD
+Bebeto = 84 | CA
+Ricardo Gomes = 83 | ZAG
+Müller = 83 | CA
+Mauro Galvão = 82 | ZAG
+Alemão = 82 | VOL
+Valdo = 82 | MEI
+Ricardo Rocha = 82 | ZAG
+Carlos Mozer = 82 | ZAG
+
+@CMR +1
+Roger Milla = 88 L | CA
+François Omam-Biyik = 84 | CA
+Thomas N'Kono = 83 | GOL
+Cyrille Makanaky = 80 | MC
+Emmanuel Kundé = 80 | ZAG
+
+@COL
+Carlos Valderrama = 90 L | MEI
+René Higuita = 84 | GOL
+Freddy Rincón = 84 | MC
+Andrés Escobar = 83 | ZAG
+Leonel Álvarez = 82 | VOL
+Arnoldo Iguarán = 80 | CA
+Bernardo Redín = 80 | MEI
+Luis Carlos Perea = 80 | ZAG
+
+@ROU
+Gheorghe Hagi = 90 L | MEI
+Gheorghe Popescu = 84 | ZAG VOL
+Marius Lăcătuș = 83 | CA PD
+Ioan Lupescu = 81 | MC
+Florin Răducioiu = 81 | CA
+Silviu Lung = 81 | GOL
+Michael Klein = 80 | LE
+Mircea Rednic = 80 | ZAG
+
+@TCH
+Tomáš Skuhravý = 86 | CA
+Ivan Hašek = 83 | MC
+Ľubomír Moravčík = 83 | MC MEI
+Michal Bílek = 81 | MC
+Jan Stejskal = 81 | GOL
+
+@BEL
+Enzo Scifo = 87 | MEI
+Michel Preud'homme = 87 | GOL
+Jan Ceulemans = 85 | CA MC
+Franky Van der Elst = 82 | VOL
+Marc Degryse = 82 | CA MEI
+Eric Gerets = 82 | LD
+Georges Grün = 80 | ZAG
+Michel De Wolf = 80 | LE
+
+@ESP
+Míchel = 87 | MD MC
+Emilio Butragueño = 86 | CA
+Andoni Zubizarreta = 86 | GOL
+Manolo Sanchís = 84 | ZAG
+Rafael Martín Vázquez = 83 | MC MEI
+Julio Salinas = 82 | CA
+Chendo = 80 | LD
+
+@URU
+Enzo Francescoli = 88 | MEI
+Rubén Sosa = 84 | CA
+Rubén Paz = 83 | MEI
+Hugo de León = 81 | ZAG
+Nelson Gutiérrez = 81 | ZAG
+José Perdomo = 80 | VOL
+
+@IRL
+Paul McGrath = 85 | ZAG VOL
+Packie Bonner = 83 | GOL
+Steve Staunton = 82 | LE
+Ray Houghton = 82 | MD
+John Aldridge = 82 | CA
+Andy Townsend = 81 | MC
+Kevin Sheedy = 81 | ME
+Niall Quinn = 80 | CA
+Mick McCarthy = 80 | ZAG
+
+@CRC
+Luis Gabelo Conejo = 82 | GOL
+Juan Cayasso = 79 | MEI
+Oscar Ramírez = 79 | MC
+
+@SWE
+Tomas Brolin = 83 | CA
+Thomas Ravelli = 82 | GOL
+Glenn Hysén = 81 | ZAG
+Anders Limpar = 81 | MD
+Jonas Thern = 80 | MC
+Stefan Schwarz = 80 | LE ME
+Roland Nilsson = 80 | LD
+
+@URS
+Rinat Dasayev = 84 | GOL
+Oleksandr Zavarov = 82 | MEI
+Oleh Protasov = 82 | CA
+Sergei Aleinikov = 81 | VOL
+Oleh Kuznetsov = 81 | ZAG
+
+@SCO
+Paul McStay = 81 | MC
+Alex McLeish = 81 | ZAG
+Ally McCoist = 80 | CA
+Mo Johnston = 80 | CA
+Jim Leighton = 79 | GOL
+
+@AUT
+Toni Polster = 83 | CA
+Andi Herzog = 82 | MEI
+
+@EGY
+Ahmed Shobair = 80 | GOL
+Hossam Hassan = 79 | CA
+
+@USA -1
+Tab Ramos = 79 | MC
+John Harkes = 78 | MC
+Tony Meola = 78 | GOL
+
+@KOR -1
+Hong Myung-bo = 82 | ZAG
+
+@UAE -3

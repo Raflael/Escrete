@@ -1,0 +1,142 @@
+# Copa de 1958 — Suécia (o primeiro título do Brasil, Pelé aos 17)
+
+@BRA
+Pelé = 95 L | CA MEI
+Garrincha = 95 L | PD
+Didi = 94 L | MEI VOL
+Nílton Santos = 91 L | LE
+Djalma Santos = 90 L | LD
+Gilmar = 89 L | GOL
+Vavá = 88 | CA
+Zito = 87 | VOL MC
+Hilderaldo Bellini = 86 | ZAG
+Mário Zagallo = 86 | PE ME
+Orlando = 85 | ZAG
+José Altafini = 84 | CA
+Dino Sani = 82 | VOL
+Pepe = 82 | PE
+De Sordi = 81 | LD
+Dida = 80 | MEI CA
+Joel Antônio Martins = 79 | PD
+
+@SWE
+Nils Liedholm = 91 L | MEI VOL
+Kurt Hamrin = 89 | PD
+Gunnar Gren = 88 | MEI
+Lennart Skoglund = 86 | PE
+Agne Simonsson = 85 | CA
+Kalle Svensson = 85 | GOL
+Orvar Bergmark = 85 | LD
+Bengt Gustavsson = 82 | ZAG
+Sigge Parling = 81 | VOL
+Sven Axbom = 80 | LE
+
+@FRG
+Helmut Rahn = 89 L | PD
+Fritz Walter = 87 | MEI
+Uwe Seeler = 86 | CA
+Hans Schäfer = 86 | PE MEI
+Horst Szymaniak = 85 | VOL MC
+Herbert Erhardt = 83 | ZAG
+Georg Stollenwerk = 80 | ZAG LD
+Erich Juskowiak = 80 | LE ZAG
+Horst Eckel = 80 | VOL
+Karl-Heinz Schnellinger = 80 | LE ZAG
+Fritz Herkenrath = 79 | GOL
+
+@FRA
+Just Fontaine = 94 L | CA
+Raymond Kopa = 93 L | MEI CA
+Roger Piantoni = 87 | MEI
+Robert Jonquet = 84 | ZAG
+Jean Vincent = 84 | PE
+Maryan Wisnieski = 83 | PD
+Armand Penverne = 82 | VOL
+Raymond Kaelbel = 80 | LD ZAG
+André Lerond = 80 | LE ZAG
+Claude Abbes = 79 | GOL
+
+@NIR
+Danny Blanchflower = 88 | VOL
+Harry Gregg = 86 | GOL
+Peter McParland = 85 | PE
+Jimmy McIlroy = 85 | MEI
+Billy Bingham = 81 | PD
+Bertie Peacock = 81 | VOL
+Wilbur Cush = 80 | VOL MEI
+
+@YUG
+Dragoslav Šekularac = 86 | MEI
+Vladimir Beara = 86 | GOL
+Branko Zebec = 85 | LE
+Todor Veselinović = 84 | CA
+Miloš Milutinović = 84 | PD CA
+Vujadin Boškov = 83 | VOL
+Tomislav Crnković = 81 | ZAG
+Aleksandar Petaković = 81 | PD CA
+Dobrosav Krstić = 80 | ZAG
+
+@WAL
+John Charles = 92 L | CA ZAG
+Ivor Allchurch = 86 | MEI
+Cliff Jones = 85 | PE
+Jack Kelsey = 85 | GOL
+Mel Charles = 80 | ZAG VOL
+
+@URS
+Lev Yashin = 95 L | GOL
+Igor Netto = 87 | VOL MC
+Valentin Ivanov = 86 | MEI
+Nikita Simonyan = 84 | CA
+Anatoli Ilyin = 82 | PE CA
+Yuri Voinov = 81 | VOL
+Boris Kuznetsov = 80 | ZAG
+Sergei Salnikov = 80 | MEI
+
+@TCH
+Josef Masopust = 88 | MC
+Ladislav Novák = 83 | LE ZAG
+Ján Popluhár = 83 | ZAG
+Svatopluk Pluskal = 81 | VOL
+
+@ARG
+Oreste Corbatta = 85 | PD
+Amadeo Carrizo = 85 | GOL
+Néstor Rossi = 84 | VOL
+Ángel Labruna = 80 | MEI
+
+@HUN
+Gyula Grosics = 85 | GOL
+Lajos Tichy = 84 | CA
+József Bozsik = 84 | VOL
+Nándor Hidegkuti = 82 | MEI
+Károly Sándor = 81 | PD
+Sándor Mátrai = 80 | ZAG LD
+Ferenc Sipos = 80 | ZAG
+
+@ENG
+Johnny Haynes = 86 | MEI
+Billy Wright = 85 | ZAG
+Tom Finney = 84 | PE PD
+Bobby Robson = 80 | MEI
+Bryan Douglas = 80 | PD
+Don Howe = 79 | LD
+Derek Kevan = 79 | CA
+
+@SCO
+Dave Mackay = 84 | VOL ZAG
+Bobby Evans = 80 | ZAG
+Bobby Collins = 80 | MEI
+Tommy Younger = 78 | GOL
+
+@AUT
+Gerhard Hanappi = 83 | MC VOL
+Ernst Happel = 81 | ZAG
+Karl Koller = 80 | MC
+
+@PAR
+Juan Bautista Agüero = 80 | CA
+Florencio Amarilla = 79 | PE
+
+@MEX
+Antonio Carbajal = 80 | GOL
