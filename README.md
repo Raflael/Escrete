@@ -1,6 +1,6 @@
 # Escrete — a seleção de todas as Copas
 
-**Jogue: https://raflael.github.io/escrete/**
+**Jogue: https://raflael.github.io/Escrete/**
 
 ![Capa do Escrete](docs/capa.png)
 
