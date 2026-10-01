@@ -227,7 +227,8 @@ export function telaDraft(tela, ctx) {
           h("p.chapeu", `Rodada ${d.escalacao.filter(Boolean).length + 1} de 11`),
           h("p.letreiro", celulas("Sorteio")),
           h("p", "Sai uma seleção e uma Copa. Você leva um jogador daquele elenco."),
-          h("div.linha-acoes", h("button.acao.vermelha", { type: "button", onclick: () => sortear(), disabled: girando }, "Sortear ⟳"))));
+          h("div.linha-acoes", h("button.acao.vermelha", { type: "button", onclick: () => sortear(), disabled: girando }, "Sortear ⟳")),
+          h("a.atalho-livre", { href: "#/livre" }, "Prefere escolher sem sorteio? Modo livre →")));
     }
     const uteis = new Set(jogadoresUteis(d, el).map((j) => j.id));
     const campanha = FASE_CAMPANHA[el.camp?.fase] ?? "";

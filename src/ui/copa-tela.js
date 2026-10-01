@@ -1,5 +1,5 @@
 // A Copa do seu time, contada como súmula de jornal: jogo a jogo, lance a lance.
-import { simularCopa, FASES } from "../motor/copa.js";
+import { simularCopa, FASES, DIFICULDADES } from "../motor/copa.js";
 import { ESTILOS } from "../motor/formacoes.js";
 import { h, escudo, nomeCurto, guardado, espera, preencher, plural } from "./util.js";
 import { passagem } from "./passagem.js";
@@ -49,7 +49,7 @@ export function telaCopa(tela, ctx) {
   guardado.gravar("copas-jogadas", n);
   const semente = `${time.semente}:copa:${n}`;
   const lado = { nome: time.nome, formacao: time.formacao, estilo: time.estilo, escalacao: time.escalacao };
-  const res = simularCopa(semente, lado, advs, { evitar: time.elencosUsados });
+  const res = simularCopa(semente, lado, advs, { evitar: time.elencosUsados, dificuldade: time.dificuldade ?? "normal" });
   const cores = (sel) => dados.selecoes[sel]?.cores;
 
   let k = 0;           // jogo sendo mostrado
@@ -122,6 +122,7 @@ export function telaCopa(tela, ctx) {
     if (res.gp >= 20) selos.push(h("span.selo", `Rolo compressor · ${res.gp} gols`));
     if (res.jogos.some((j) => j.penaltis && j.vencedor === "A")) selos.push(h("span.selo", "Frieza nos pênaltis"));
     if (time.modo === "almanaque") selos.push(h("span.selo", "De almanaque"));
+    if (time.modo === "livre") selos.push(h("span.selo", `Modo livre · ${DIFICULDADES[time.dificuldade ?? "normal"].nome}${time.comOrcamento ? " · com teto" : ""}`));
 
     // Artilharia do seu time
     const gols = new Map();
@@ -146,7 +147,9 @@ export function telaCopa(tela, ctx) {
           h("td.n", `${j.gA} × ${j.gB}${j.prorrogacao && !j.penaltis ? " (prorr.)" : ""}${j.penaltis ? ` (pên. ${j.penaltis.placar.A}×${j.penaltis.placar.B})` : ""}`)))))),
       h("div.linha-acoes",
         h("button.acao.vermelha", { type: "button", onclick: () => { passagem.time = time; location.hash = "#/copa/" + Date.now(); } }, "Outra Copa com o mesmo time"),
-        h("a.acao.secundaria", { href: "#/jogar", onclick: () => guardado.gravar("draft", null) }, "Montar outro time")));
+        time.modo === "livre"
+          ? h("a.acao.secundaria", { href: "#/livre" }, "Mexer no time")
+          : h("a.acao.secundaria", { href: "#/jogar", onclick: () => guardado.gravar("draft", null) }, "Montar outro time")));
   }
 
   mostrarJogo();
@@ -175,7 +178,7 @@ function registrarHistorico(time, res) {
   const hist = guardado.ler("historico", []);
   hist.unshift({
     quando: new Date().toISOString(),
-    nome: time.nome, formacao: time.formacao, estilo: time.estilo, modo: time.modo,
+    nome: time.nome, formacao: time.formacao, estilo: time.estilo, modo: time.modo, dificuldade: time.dificuldade, comOrcamento: time.comOrcamento,
     nota: Math.round(res.avaliacao.geral),
     campeao: res.campeao, setePerfeito: res.setePerfeito, semSofrer: res.semSofrer,
     alcance: res.campeao ? "Campeão" : res.posicaoGrupo > 2 ? "Grupos" : NOME_FASE_CURTO[res.jogos.at(-1).fase.chave],

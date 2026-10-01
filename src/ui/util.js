@@ -56,7 +56,7 @@ export function botao(jogador, cores) {
 // Nome curto para o campo: mantém nomes curtos e apelidos; senão fica com o sobrenome (com partícula).
 const PARTICULAS = new Set(["de", "da", "do", "dos", "das", "van", "von", "der", "den", "di", "del", "la", "le", "el", "al", "ben", "mac", "st.", "'t"]);
 export function nomeCurto(nome) {
-  if (nome.length <= 13) return nome;
+  if (nome.length <= 15) return nome;
   const partes = nome.split(/\s+/);
   let i = partes.length - 1;
   while (i > 0 && PARTICULAS.has(partes[i - 1].toLowerCase())) i--;

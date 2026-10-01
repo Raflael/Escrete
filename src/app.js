@@ -2,6 +2,7 @@
 import { prepararAdversarios } from "./motor/copa.js";
 import { telaCapa } from "./ui/capa.js";
 import { telaDraft } from "./ui/draft-tela.js";
+import { telaLivre } from "./ui/livre-tela.js";
 import { telaCopa } from "./ui/copa-tela.js";
 import { telaHistorico } from "./ui/historico.js";
 import { telaComoJogar } from "./ui/como-jogar.js";
@@ -25,6 +26,7 @@ async function carregar() {
 const ROTAS = {
   "": telaCapa,
   "jogar": telaDraft,
+  "livre": telaLivre,
   "copa": telaCopa,
   "historico": telaHistorico,
   "como-jogar": telaComoJogar,

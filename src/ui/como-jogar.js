@@ -20,5 +20,8 @@ export function telaComoJogar(tela) {
       h("p", "Ser campeão é a meta. Ganhar os sete jogos (sem precisar de pênaltis) é o 7 em 7. E vencer os sete sem sofrer nenhum gol é o Escrete Perfeito — coisa para contar para os netos.")),
     h("div.bloco", h("h2", "6 · O modo almanaque"),
       h("p", "Para quem sabe de cor: as notas ficam escondidas e você escala só pelo nome, pela posição e pela memória. Um re-sorteio só.")),
+    h("div.bloco", h("h2", "7 · O modo livre"),
+      h("p", "Sem sorteio: busque qualquer jogador de qualquer Copa pelo nome, pela seleção, pelo ano ou pela posição — toque numa vaga vazia e a lista já filtra quem joga ali. Dá para tirar e trocar à vontade."),
+      h("p", "Com um time só de lendas a Copa normal fica fácil, então escolha a dificuldade: na Lendária, só os maiores elencos da história aparecem pela frente. Quem quiser estratégia liga o teto de 1000: cada jogador tem preço pela nota, e onze lendas não cabem. Títulos do modo livre ficam contados à parte.")),
     h("a.acao.vermelha", { href: "#/jogar" }, "Montar meu time →")));
 }

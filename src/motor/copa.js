@@ -21,6 +21,19 @@ export const FAIXAS = {
   OIT: [0.3, 0.7], QUA: [0.45, 0.82], SEM: [0.55, 0.9], FIN: [0.65, 0.97],
 };
 
+// Níveis do modo livre, em que o time pode ser só de craques: quanto mais alto, mais cedo vêm os gigantes.
+export const DIFICULDADES = {
+  normal: { nome: "Normal", faixas: FAIXAS },
+  dificil: {
+    nome: "Difícil",
+    faixas: { grupo: [[0.75, 0.95], [0.6, 0.85], [0.45, 0.75]], OIT: [0.65, 0.9], QUA: [0.78, 0.96], SEM: [0.86, 0.99], FIN: [0.92, 1] },
+  },
+  lendaria: {
+    nome: "Lendária",
+    faixas: { grupo: [[0.9, 1], [0.86, 0.98], [0.82, 0.95]], OIT: [0.88, 1], QUA: [0.92, 1], SEM: [0.95, 1], FIN: [0.97, 1] },
+  },
+};
+
 const FORMACAO_ADV = (elenco) => (elenco.ano <= 1962 ? "WM" : elenco.ano <= 1974 ? "4-2-4" : "4-4-2");
 
 // Prepara todos os elencos como adversários possíveis (uma vez por sessão; é determinístico).
@@ -46,14 +59,15 @@ function sortearAdversario(rng, advs, [de, ate], evitar) {
 
 // meuLado: { nome, formacao, estilo, escalacao }. evitar: ids de elencos que não podem ser adversários
 // (os que o jogador usou no draft, por exemplo).
-export function simularCopa(semente, meuLado, advs, { evitar = [] } = {}) {
+export function simularCopa(semente, meuLado, advs, { evitar = [], dificuldade = "normal" } = {}) {
+  const F = (DIFICULDADES[dificuldade] ?? DIFICULDADES.normal).faixas;
   const rngAdv = derivar(semente, "adversarios");
   const rngJogo = derivar(semente, "jogos");
   const usados = new Set(evitar);
   const eu = prepararLado(meuLado);
 
   // Grupo: 3 adversários de faixas diferentes, em ordem embaralhada.
-  const grupo = embaralhar(rngAdv, FAIXAS.grupo).map((faixa) => {
+  const grupo = embaralhar(rngAdv, F.grupo).map((faixa) => {
     const a = sortearAdversario(rngAdv, advs, faixa, usados);
     usados.add(a.elenco.id);
     return a;
@@ -85,7 +99,7 @@ export function simularCopa(semente, meuLado, advs, { evitar = [] } = {}) {
 
   for (const fase of FASES.slice(3)) {
     if (!vivo) break;
-    const adv = sortearAdversario(rngAdv, advs, FAIXAS[fase.chave], usados);
+    const adv = sortearAdversario(rngAdv, advs, F[fase.chave], usados);
     usados.add(adv.elenco.id);
     const r = simularPartida(rngJogo, eu, adv.lado, { mataMata: true });
     jogos.push({ fase, adversario: adv.elenco.id, advNome: adv.lado.nome, advLado: adv.lado, ...r });

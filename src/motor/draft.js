@@ -110,3 +110,18 @@ export function mudarFormacao(draft, formacao) {
 }
 
 export const completo = (draft) => draft.escalacao.every(Boolean);
+
+// Tirar um jogador do time (só no modo livre: no sorteio isso viraria pescaria de elencos).
+export function remover(draft, i) {
+  const j = draft.escalacao[i];
+  if (!j) return draft;
+  const escalacao = draft.escalacao.slice();
+  escalacao[i] = null;
+  const restantes = escalacao.filter(Boolean);
+  return {
+    ...draft,
+    escalacao,
+    usados: draft.usados.filter((id) => id !== j.id),
+    elencosUsados: [...new Set(restantes.map((x) => `${x.ano}-${x.sel}`))],
+  };
+}

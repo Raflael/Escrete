@@ -24,6 +24,7 @@ export function telaCapa(tela, { dados, totalJogadores }) {
         "Você escolhe um jogador daquele elenco para o seu time. Com os onze escalados, o seu escrete disputa uma Copa inteira contra seleções históricas, gol a gol."),
       h("div.capa-acoes",
         h("a.acao.vermelha", { href: "#/jogar" }, "Montar meu time →"),
+        h("a.acao.secundaria", { href: "#/livre" }, "Modo livre"),
         h("a.acao.secundaria", { href: "#/como-jogar" }, "Como se joga")),
       h("div.numeros",
         h("div", h("b", copas), h("span.versalete", "Copas")),
