@@ -7,7 +7,7 @@ export function h(sel, attrs, ...filhos) {
   for (const [, tipo, nome] of resto.matchAll(/([.#])([\w-]+)/g)) {
     if (tipo === ".") el.classList.add(nome); else el.id = nome;
   }
-  if (attrs && (typeof attrs !== "object" || attrs instanceof Node || Array.isArray(attrs))) { filhos.unshift(attrs); attrs = null; }
+  if (attrs != null && (typeof attrs !== "object" || attrs instanceof Node || Array.isArray(attrs))) { filhos.unshift(attrs); attrs = null; }
   for (const [k, v] of Object.entries(attrs ?? {})) {
     if (v == null || v === false) continue;
     if (k.startsWith("on")) el.addEventListener(k.slice(2), v);
