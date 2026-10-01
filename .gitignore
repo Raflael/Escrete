@@ -1,3 +1,4 @@
 # Cache da Wikipédia e do banco Fjelstul: refeito por ferramentas/*.mjs
 dados/brutos/
 node_modules/
+testes/capturas/

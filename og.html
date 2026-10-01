@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Escrete — imagem de compartilhamento</title>
+<!-- Fonte da imagem og.png (1200x630). Para regerar: abrir no Chrome headless e capturar 1200x630. -->
+<link rel="stylesheet" href="src/estilo.css">
+<style>
+  html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+  .og { width: 1200px; height: 630px; padding: 46px 64px; box-sizing: border-box; display: grid; grid-template-columns: 1fr 360px; gap: 40px; }
+  .og h1 { font-family: var(--manchete); font-weight: 400; font-size: 132px; line-height: 0.9; margin: 0 0 6px; }
+  .og .sub { font-style: italic; font-size: 26px; color: var(--tinta-suave); margin: 0 0 22px; }
+  .og hr { border: 0; border-top: 4px double var(--tinta); margin: 0 0 26px; }
+  .og h2 { font-family: var(--manchete); font-weight: 400; font-size: 52px; line-height: 1.02; margin: 0 0 20px; }
+  .og .linha-fina { font-size: 24px; line-height: 1.35; margin: 0; }
+  .og .numeros { display: flex; gap: 30px; margin-top: 26px; border-top: 1.5px solid var(--tinta); padding-top: 12px; }
+  .og .numeros b { font-family: var(--numero); font-size: 46px; display: block; line-height: 1; }
+  .og .numeros span { font-family: var(--numero); text-transform: uppercase; letter-spacing: 0.08em; font-size: 18px; }
+  .og .campo { max-width: none; width: 360px; }
+</style>
+</head>
+<body>
+<div class="og">
+  <div>
+    <h1>Escrete</h1>
+    <p class="sub">A seleção de todas as Copas · 1950 – 2026</p>
+    <hr>
+    <h2>Sorteie a Copa. Escale o craque. Dispute o título.</h2>
+    <p class="linha-fina">Um jogador por sorteio, de seleções reais de todas as Copas. Com os onze, o seu time disputa uma Copa inteira, gol a gol.</p>
+    <div class="numeros"><div><b>20</b><span>Copas</span></div><div><b>493</b><span>elencos</span></div><div><b>11.313</b><span>convocados</span></div></div>
+  </div>
+  <div id="campo"></div>
+</div>
+<script type="module">
+  import { campo } from "./src/ui/campo.js";
+  import { prepararAdversarios } from "./src/motor/copa.js";
+
+  const dados = await (await fetch("dados/jogo/elencos.json")).json();
+  prepararAdversarios(dados);
+  // Um time de lendas fixo para a imagem, cada um na sua posição (ordem das vagas do 4-3-3:
+  // GOL, LD, ZAG, ZAG, LE, VOL, MC, MEI, PD, CA, PE).
+  const pega = (ano, sel, nome) => dados.elencos.find((e) => e.ano === ano && e.sel === sel).js.find((j) => j.n === nome);
+  const escalacao = [pega(1958, "URS", "Lev Yashin"), pega(1970, "BRA", "Carlos Alberto"), pega(1974, "FRG", "Franz Beckenbauer"), pega(1990, "ITA", "Franco Baresi"),
+    pega(1994, "ITA", "Paolo Maldini"), pega(1982, "BRA", "Falcão"), pega(1970, "BRA", "Gérson"), pega(1986, "ARG", "Diego Maradona"),
+    pega(1962, "BRA", "Garrincha"), pega(1970, "BRA", "Pelé"), pega(1974, "NED", "Johan Cruyff")];
+  document.getElementById("campo").append(campo({ formacao: "4-3-3", escalacao, selecoes: dados.selecoes }));
+  document.body.dataset.pronto = "1";
+</script>
+</body>
+</html>

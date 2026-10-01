@@ -267,3 +267,6 @@ main { max-width: 1240px; margin: 0 auto; padding: 18px 16px 60px; }
 .preco { font-weight: 700; font-size: 0.95rem; color: var(--gramado); }
 .lista-elenco { max-height: 70vh; overflow-y: auto; }
 .atalho-livre { display: block; margin-top: 10px; font-size: 0.92rem; }
+
+/* Aviso de edição nova (service worker) */
+.aviso-versao { position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%); background: var(--tinta); color: var(--papel-claro); padding: 10px 12px 10px 16px; display: flex; gap: 12px; align-items: center; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25); z-index: 10; font-family: var(--numero); font-weight: 600; letter-spacing: 0.03em; }

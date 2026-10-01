@@ -57,8 +57,8 @@ export async function abrirNavegador({ largura = 1280, altura = 900, porta = 933
       while (Date.now() - t0 < ms) { if (await nav.js(expr)) return true; await espera(100); }
       throw new Error("tempo esgotado esperando: " + expr);
     },
-    async foto(arquivo, { inteira = false } = {}) {
-      let params = { format: "png" };
+    async foto(arquivo, { inteira = false, recorte = null } = {}) {
+      let params = { format: "png", ...(recorte ? { clip: { ...recorte, scale: 1 } } : {}) };
       if (inteira) {
         const alt = await nav.js("document.documentElement.scrollHeight");
         await cmd("Emulation.setDeviceMetricsOverride", { width: largura, height: alt, deviceScaleFactor: 1, mobile: largura < 600 });

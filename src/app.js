@@ -6,6 +6,7 @@ import { telaLivre } from "./ui/livre-tela.js";
 import { telaCopa } from "./ui/copa-tela.js";
 import { telaHistorico } from "./ui/historico.js";
 import { telaComoJogar } from "./ui/como-jogar.js";
+import { registrarAtualizacoes } from "./ui/atualizacao.js";
 
 const tela = document.getElementById("tela");
 document.getElementById("data-hoje").textContent = new Date().toLocaleDateString("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
@@ -51,3 +52,4 @@ async function rotear() {
 }
 window.addEventListener("hashchange", rotear);
 rotear();
+registrarAtualizacoes();
