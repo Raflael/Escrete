@@ -8,9 +8,10 @@ const pasta = new URL("./capturas/", import.meta.url);
 fs.mkdirSync(pasta, { recursive: true });
 const foto = (nome) => new URL(`${nome}-${largura}.png`, pasta).pathname.replace(/^\/(\w:)/, "$1");
 
+const BASE = process.env.BASE ?? "http://localhost:8110";
 const nav = await abrirNavegador({ largura, altura });
 try {
-  await nav.ir("http://localhost:8110/#/jogar");
+  await nav.ir(`${BASE}/#/jogar`);
   await nav.js("localStorage.clear(); location.reload()");
   await nav.espera(1200);
   for (let r = 1; r <= 11; r++) {
