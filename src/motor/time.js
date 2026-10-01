@@ -13,9 +13,9 @@ export function avaliarTime(formacao, escalacao) {
       return;
     }
     const peso = PESO[vaga.pos];
+    if (!j) return; // time incompleto: a média é só de quem já está escalado
     pAtk += peso.atk;
     pDef += peso.def;
-    if (!j) return;
     const f = forcaNaVaga(j, vaga.pos);
     atk += f * peso.atk;
     def += f * peso.def;
